@@ -1,0 +1,998 @@
+﻿_previousYear,_units,Dataset,Date,Table Names,_valueConnector,Value
+1970-01-01,(2002=100),Consumer Price Index,1971-01-01,table 18100004.hyper/table 18100004,21.3,21.3
+1970-02-01,(2002=100),Consumer Price Index,1971-02-01,table 18100004.hyper/table 18100004,21.3,21.3
+1970-03-01,(2002=100),Consumer Price Index,1971-03-01,table 18100004.hyper/table 18100004,21.4,21.4
+1970-04-01,(2002=100),Consumer Price Index,1971-04-01,table 18100004.hyper/table 18100004,21.7,21.7
+1970-05-01,(2002=100),Consumer Price Index,1971-05-01,table 18100004.hyper/table 18100004,21.8,21.8
+1970-06-01,(2002=100),Consumer Price Index,1971-06-01,table 18100004.hyper/table 18100004,21.8,21.8
+1970-07-01,(2002=100),Consumer Price Index,1971-07-01,table 18100004.hyper/table 18100004,21.9,21.9
+1970-08-01,(2002=100),Consumer Price Index,1971-08-01,table 18100004.hyper/table 18100004,21.9,21.9
+1970-09-01,(2002=100),Consumer Price Index,1971-09-01,table 18100004.hyper/table 18100004,22,22
+1970-10-01,(2002=100),Consumer Price Index,1971-10-01,table 18100004.hyper/table 18100004,21.9,21.9
+1970-11-01,(2002=100),Consumer Price Index,1971-11-01,table 18100004.hyper/table 18100004,22,22
+1970-12-01,(2002=100),Consumer Price Index,1971-12-01,table 18100004.hyper/table 18100004,22.2,22.2
+1971-01-01,(2002=100),Consumer Price Index,1972-01-01,table 18100004.hyper/table 18100004,22.3,22.3
+1971-02-01,(2002=100),Consumer Price Index,1972-02-01,table 18100004.hyper/table 18100004,22.3,22.3
+1971-03-01,(2002=100),Consumer Price Index,1972-03-01,table 18100004.hyper/table 18100004,22.4,22.4
+1971-04-01,(2002=100),Consumer Price Index,1972-04-01,table 18100004.hyper/table 18100004,22.6,22.6
+1971-05-01,(2002=100),Consumer Price Index,1972-05-01,table 18100004.hyper/table 18100004,22.6,22.6
+1971-06-01,(2002=100),Consumer Price Index,1972-06-01,table 18100004.hyper/table 18100004,22.6,22.6
+1971-07-01,(2002=100),Consumer Price Index,1972-07-01,table 18100004.hyper/table 18100004,22.9,22.9
+1971-08-01,(2002=100),Consumer Price Index,1972-08-01,table 18100004.hyper/table 18100004,23.1,23.1
+1971-09-01,(2002=100),Consumer Price Index,1972-09-01,table 18100004.hyper/table 18100004,23.2,23.2
+1971-10-01,(2002=100),Consumer Price Index,1972-10-01,table 18100004.hyper/table 18100004,23.2,23.2
+1971-11-01,(2002=100),Consumer Price Index,1972-11-01,table 18100004.hyper/table 18100004,23.3,23.3
+1971-12-01,(2002=100),Consumer Price Index,1972-12-01,table 18100004.hyper/table 18100004,23.4,23.4
+1972-01-01,(2002=100),Consumer Price Index,1973-01-01,table 18100004.hyper/table 18100004,23.6,23.6
+1972-02-01,(2002=100),Consumer Price Index,1973-02-01,table 18100004.hyper/table 18100004,23.7,23.7
+1972-03-01,(2002=100),Consumer Price Index,1973-03-01,table 18100004.hyper/table 18100004,23.9,23.9
+1972-04-01,(2002=100),Consumer Price Index,1973-04-01,table 18100004.hyper/table 18100004,24.2,24.2
+1972-05-01,(2002=100),Consumer Price Index,1973-05-01,table 18100004.hyper/table 18100004,24.4,24.4
+1972-06-01,(2002=100),Consumer Price Index,1973-06-01,table 18100004.hyper/table 18100004,24.5,24.5
+1972-07-01,(2002=100),Consumer Price Index,1973-07-01,table 18100004.hyper/table 18100004,24.8,24.8
+1972-08-01,(2002=100),Consumer Price Index,1973-08-01,table 18100004.hyper/table 18100004,25,25
+1972-09-01,(2002=100),Consumer Price Index,1973-09-01,table 18100004.hyper/table 18100004,25.3,25.3
+1972-10-01,(2002=100),Consumer Price Index,1973-10-01,table 18100004.hyper/table 18100004,25.4,25.4
+1972-11-01,(2002=100),Consumer Price Index,1973-11-01,table 18100004.hyper/table 18100004,25.5,25.5
+1972-12-01,(2002=100),Consumer Price Index,1973-12-01,table 18100004.hyper/table 18100004,25.6,25.6
+1973-01-01,(2002=100),Consumer Price Index,1974-01-01,table 18100004.hyper/table 18100004,25.8,25.8
+1973-02-01,(2002=100),Consumer Price Index,1974-02-01,table 18100004.hyper/table 18100004,26,26
+1973-03-01,(2002=100),Consumer Price Index,1974-03-01,table 18100004.hyper/table 18100004,26.1,26.1
+1973-04-01,(2002=100),Consumer Price Index,1974-04-01,table 18100004.hyper/table 18100004,26.5,26.5
+1973-05-01,(2002=100),Consumer Price Index,1974-05-01,table 18100004.hyper/table 18100004,26.8,26.8
+1973-06-01,(2002=100),Consumer Price Index,1974-06-01,table 18100004.hyper/table 18100004,27.1,27.1
+1973-07-01,(2002=100),Consumer Price Index,1974-07-01,table 18100004.hyper/table 18100004,27.4,27.4
+1973-08-01,(2002=100),Consumer Price Index,1974-08-01,table 18100004.hyper/table 18100004,27.5,27.5
+1973-09-01,(2002=100),Consumer Price Index,1974-09-01,table 18100004.hyper/table 18100004,27.6,27.6
+1973-10-01,(2002=100),Consumer Price Index,1974-10-01,table 18100004.hyper/table 18100004,27.8,27.8
+1973-11-01,(2002=100),Consumer Price Index,1974-11-01,table 18100004.hyper/table 18100004,28.1,28.1
+1973-12-01,(2002=100),Consumer Price Index,1974-12-01,table 18100004.hyper/table 18100004,28.2,28.2
+1974-01-01,(2002=100),Consumer Price Index,1975-01-01,table 18100004.hyper/table 18100004,28.4,28.4
+1974-02-01,(2002=100),Consumer Price Index,1975-02-01,table 18100004.hyper/table 18100004,28.7,28.7
+1974-03-01,(2002=100),Consumer Price Index,1975-03-01,table 18100004.hyper/table 18100004,28.8,28.8
+1974-04-01,(2002=100),Consumer Price Index,1975-04-01,table 18100004.hyper/table 18100004,29.1,29.1
+1974-05-01,(2002=100),Consumer Price Index,1975-05-01,table 18100004.hyper/table 18100004,29.2,29.2
+1974-06-01,(2002=100),Consumer Price Index,1975-06-01,table 18100004.hyper/table 18100004,29.5,29.5
+1974-07-01,(2002=100),Consumer Price Index,1975-07-01,table 18100004.hyper/table 18100004,30,30
+1974-08-01,(2002=100),Consumer Price Index,1975-08-01,table 18100004.hyper/table 18100004,30.3,30.3
+1974-09-01,(2002=100),Consumer Price Index,1975-09-01,table 18100004.hyper/table 18100004,30.3,30.3
+1974-10-01,(2002=100),Consumer Price Index,1975-10-01,table 18100004.hyper/table 18100004,30.9,30.9
+1974-11-01,(2002=100),Consumer Price Index,1975-11-01,table 18100004.hyper/table 18100004,31.2,31.2
+1974-12-01,(2002=100),Consumer Price Index,1975-12-01,table 18100004.hyper/table 18100004,31.4,31.4
+1975-01-01,(2002=100),Consumer Price Index,1976-01-01,table 18100004.hyper/table 18100004,31.5,31.5
+1975-02-01,(2002=100),Consumer Price Index,1976-02-01,table 18100004.hyper/table 18100004,31.7,31.7
+1975-03-01,(2002=100),Consumer Price Index,1976-03-01,table 18100004.hyper/table 18100004,31.8,31.8
+1975-04-01,(2002=100),Consumer Price Index,1976-04-01,table 18100004.hyper/table 18100004,31.8,31.8
+1975-05-01,(2002=100),Consumer Price Index,1976-05-01,table 18100004.hyper/table 18100004,32,32
+1975-06-01,(2002=100),Consumer Price Index,1976-06-01,table 18100004.hyper/table 18100004,32.3,32.3
+1975-07-01,(2002=100),Consumer Price Index,1976-07-01,table 18100004.hyper/table 18100004,32.4,32.4
+1975-08-01,(2002=100),Consumer Price Index,1976-08-01,table 18100004.hyper/table 18100004,32.7,32.7
+1975-09-01,(2002=100),Consumer Price Index,1976-09-01,table 18100004.hyper/table 18100004,32.7,32.7
+1975-10-01,(2002=100),Consumer Price Index,1976-10-01,table 18100004.hyper/table 18100004,32.8,32.8
+1975-11-01,(2002=100),Consumer Price Index,1976-11-01,table 18100004.hyper/table 18100004,33,33
+1975-12-01,(2002=100),Consumer Price Index,1976-12-01,table 18100004.hyper/table 18100004,33,33
+1976-01-01,(2002=100),Consumer Price Index,1977-01-01,table 18100004.hyper/table 18100004,33.1,33.1
+1976-02-01,(2002=100),Consumer Price Index,1977-02-01,table 18100004.hyper/table 18100004,33.5,33.5
+1976-03-01,(2002=100),Consumer Price Index,1977-03-01,table 18100004.hyper/table 18100004,33.9,33.9
+1976-04-01,(2002=100),Consumer Price Index,1977-04-01,table 18100004.hyper/table 18100004,34.4,34.4
+1976-05-01,(2002=100),Consumer Price Index,1977-05-01,table 18100004.hyper/table 18100004,34.6,34.6
+1976-06-01,(2002=100),Consumer Price Index,1977-06-01,table 18100004.hyper/table 18100004,34.9,34.9
+1976-07-01,(2002=100),Consumer Price Index,1977-07-01,table 18100004.hyper/table 18100004,35.1,35.1
+1976-08-01,(2002=100),Consumer Price Index,1977-08-01,table 18100004.hyper/table 18100004,35.2,35.2
+1976-09-01,(2002=100),Consumer Price Index,1977-09-01,table 18100004.hyper/table 18100004,35.4,35.4
+1976-10-01,(2002=100),Consumer Price Index,1977-10-01,table 18100004.hyper/table 18100004,35.6,35.6
+1976-11-01,(2002=100),Consumer Price Index,1977-11-01,table 18100004.hyper/table 18100004,35.8,35.8
+1976-12-01,(2002=100),Consumer Price Index,1977-12-01,table 18100004.hyper/table 18100004,36,36
+1977-01-01,(2002=100),Consumer Price Index,1978-01-01,table 18100004.hyper/table 18100004,36,36
+1977-02-01,(2002=100),Consumer Price Index,1978-02-01,table 18100004.hyper/table 18100004,36.3,36.3
+1977-03-01,(2002=100),Consumer Price Index,1978-03-01,table 18100004.hyper/table 18100004,36.6,36.6
+1977-04-01,(2002=100),Consumer Price Index,1978-04-01,table 18100004.hyper/table 18100004,36.8,36.8
+1977-05-01,(2002=100),Consumer Price Index,1978-05-01,table 18100004.hyper/table 18100004,37,37
+1977-06-01,(2002=100),Consumer Price Index,1978-06-01,table 18100004.hyper/table 18100004,37.4,37.4
+1977-07-01,(2002=100),Consumer Price Index,1978-07-01,table 18100004.hyper/table 18100004,37.7,37.7
+1977-08-01,(2002=100),Consumer Price Index,1978-08-01,table 18100004.hyper/table 18100004,38,38
+1977-09-01,(2002=100),Consumer Price Index,1978-09-01,table 18100004.hyper/table 18100004,38,38
+1977-10-01,(2002=100),Consumer Price Index,1978-10-01,table 18100004.hyper/table 18100004,38.6,38.6
+1977-11-01,(2002=100),Consumer Price Index,1978-11-01,table 18100004.hyper/table 18100004,38.7,38.7
+1977-12-01,(2002=100),Consumer Price Index,1978-12-01,table 18100004.hyper/table 18100004,38.9,38.9
+1978-01-01,(2002=100),Consumer Price Index,1979-01-01,table 18100004.hyper/table 18100004,39,39
+1978-02-01,(2002=100),Consumer Price Index,1979-02-01,table 18100004.hyper/table 18100004,39.3,39.3
+1978-03-01,(2002=100),Consumer Price Index,1979-03-01,table 18100004.hyper/table 18100004,39.8,39.8
+1978-04-01,(2002=100),Consumer Price Index,1979-04-01,table 18100004.hyper/table 18100004,40.1,40.1
+1978-05-01,(2002=100),Consumer Price Index,1979-05-01,table 18100004.hyper/table 18100004,40.6,40.6
+1978-06-01,(2002=100),Consumer Price Index,1979-06-01,table 18100004.hyper/table 18100004,40.8,40.8
+1978-07-01,(2002=100),Consumer Price Index,1979-07-01,table 18100004.hyper/table 18100004,41.2,41.2
+1978-08-01,(2002=100),Consumer Price Index,1979-08-01,table 18100004.hyper/table 18100004,41.2,41.2
+1978-09-01,(2002=100),Consumer Price Index,1979-09-01,table 18100004.hyper/table 18100004,41.5,41.5
+1978-10-01,(2002=100),Consumer Price Index,1979-10-01,table 18100004.hyper/table 18100004,41.7,41.7
+1978-11-01,(2002=100),Consumer Price Index,1979-11-01,table 18100004.hyper/table 18100004,42.3,42.3
+1978-12-01,(2002=100),Consumer Price Index,1979-12-01,table 18100004.hyper/table 18100004,42.3,42.3
+1979-01-01,(2002=100),Consumer Price Index,1980-01-01,table 18100004.hyper/table 18100004,42.7,42.7
+1979-02-01,(2002=100),Consumer Price Index,1980-02-01,table 18100004.hyper/table 18100004,43.1,43.1
+1979-03-01,(2002=100),Consumer Price Index,1980-03-01,table 18100004.hyper/table 18100004,43.8,43.8
+1979-04-01,(2002=100),Consumer Price Index,1980-04-01,table 18100004.hyper/table 18100004,44.1,44.1
+1979-05-01,(2002=100),Consumer Price Index,1980-05-01,table 18100004.hyper/table 18100004,44.5,44.5
+1979-06-01,(2002=100),Consumer Price Index,1980-06-01,table 18100004.hyper/table 18100004,45,45
+1979-07-01,(2002=100),Consumer Price Index,1980-07-01,table 18100004.hyper/table 18100004,45.4,45.4
+1979-08-01,(2002=100),Consumer Price Index,1980-08-01,table 18100004.hyper/table 18100004,45.8,45.8
+1979-09-01,(2002=100),Consumer Price Index,1980-09-01,table 18100004.hyper/table 18100004,46.1,46.1
+1979-10-01,(2002=100),Consumer Price Index,1980-10-01,table 18100004.hyper/table 18100004,46.7,46.7
+1979-11-01,(2002=100),Consumer Price Index,1980-11-01,table 18100004.hyper/table 18100004,47.5,47.5
+1979-12-01,(2002=100),Consumer Price Index,1980-12-01,table 18100004.hyper/table 18100004,47.6,47.6
+1980-01-01,(2002=100),Consumer Price Index,1981-01-01,table 18100004.hyper/table 18100004,48,48
+1980-02-01,(2002=100),Consumer Price Index,1981-02-01,table 18100004.hyper/table 18100004,48.5,48.5
+1980-03-01,(2002=100),Consumer Price Index,1981-03-01,table 18100004.hyper/table 18100004,49.1,49.1
+1980-04-01,(2002=100),Consumer Price Index,1981-04-01,table 18100004.hyper/table 18100004,49.4,49.4
+1980-05-01,(2002=100),Consumer Price Index,1981-05-01,table 18100004.hyper/table 18100004,49.9,49.9
+1980-06-01,(2002=100),Consumer Price Index,1981-06-01,table 18100004.hyper/table 18100004,50.7,50.7
+1980-07-01,(2002=100),Consumer Price Index,1981-07-01,table 18100004.hyper/table 18100004,50.9,50.9
+1980-08-01,(2002=100),Consumer Price Index,1981-08-01,table 18100004.hyper/table 18100004,51.2,51.2
+1980-09-01,(2002=100),Consumer Price Index,1981-09-01,table 18100004.hyper/table 18100004,51.7,51.7
+1980-10-01,(2002=100),Consumer Price Index,1981-10-01,table 18100004.hyper/table 18100004,52.1,52.1
+1980-11-01,(2002=100),Consumer Price Index,1981-11-01,table 18100004.hyper/table 18100004,52.8,52.8
+1980-12-01,(2002=100),Consumer Price Index,1981-12-01,table 18100004.hyper/table 18100004,52.5,52.5
+1981-01-01,(2002=100),Consumer Price Index,1982-01-01,table 18100004.hyper/table 18100004,52.8,52.8
+1981-02-01,(2002=100),Consumer Price Index,1982-02-01,table 18100004.hyper/table 18100004,53.3,53.3
+1981-03-01,(2002=100),Consumer Price Index,1982-03-01,table 18100004.hyper/table 18100004,53.9,53.9
+1981-04-01,(2002=100),Consumer Price Index,1982-04-01,table 18100004.hyper/table 18100004,54.3,54.3
+1981-05-01,(2002=100),Consumer Price Index,1982-05-01,table 18100004.hyper/table 18100004,55.3,55.3
+1981-06-01,(2002=100),Consumer Price Index,1982-06-01,table 18100004.hyper/table 18100004,55.7,55.7
+1981-07-01,(2002=100),Consumer Price Index,1982-07-01,table 18100004.hyper/table 18100004,55.9,55.9
+1981-08-01,(2002=100),Consumer Price Index,1982-08-01,table 18100004.hyper/table 18100004,56,56
+1981-09-01,(2002=100),Consumer Price Index,1982-09-01,table 18100004.hyper/table 18100004,56.3,56.3
+1981-10-01,(2002=100),Consumer Price Index,1982-10-01,table 18100004.hyper/table 18100004,56.8,56.8
+1981-11-01,(2002=100),Consumer Price Index,1982-11-01,table 18100004.hyper/table 18100004,57.1,57.1
+1981-12-01,(2002=100),Consumer Price Index,1982-12-01,table 18100004.hyper/table 18100004,57.2,57.2
+1982-01-01,(2002=100),Consumer Price Index,1983-01-01,table 18100004.hyper/table 18100004,57.3,57.3
+1982-02-01,(2002=100),Consumer Price Index,1983-02-01,table 18100004.hyper/table 18100004,57.7,57.7
+1982-03-01,(2002=100),Consumer Price Index,1983-03-01,table 18100004.hyper/table 18100004,58.2,58.2
+1982-04-01,(2002=100),Consumer Price Index,1983-04-01,table 18100004.hyper/table 18100004,58.5,58.5
+1982-05-01,(2002=100),Consumer Price Index,1983-05-01,table 18100004.hyper/table 18100004,58.8,58.8
+1982-06-01,(2002=100),Consumer Price Index,1983-06-01,table 18100004.hyper/table 18100004,59,59
+1982-07-01,(2002=100),Consumer Price Index,1983-07-01,table 18100004.hyper/table 18100004,59.4,59.4
+1982-08-01,(2002=100),Consumer Price Index,1983-08-01,table 18100004.hyper/table 18100004,59.5,59.5
+1982-09-01,(2002=100),Consumer Price Index,1983-09-01,table 18100004.hyper/table 18100004,59.6,59.6
+1982-10-01,(2002=100),Consumer Price Index,1983-10-01,table 18100004.hyper/table 18100004,59.8,59.8
+1982-11-01,(2002=100),Consumer Price Index,1983-11-01,table 18100004.hyper/table 18100004,60,60
+1982-12-01,(2002=100),Consumer Price Index,1983-12-01,table 18100004.hyper/table 18100004,60.1,60.1
+1983-01-01,(2002=100),Consumer Price Index,1984-01-01,table 18100004.hyper/table 18100004,60.4,60.4
+2012-01-01,Index,Business Confidence,2013-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,24.6,24.6
+2013-01-01,Index,Business Confidence,2014-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,20.2,20.2
+2014-01-01,Index,Business Confidence,2015-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,21.1,21.1
+2015-01-01,Index,Business Confidence,2016-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,28.1,28.1
+2016-01-01,Index,Business Confidence,2017-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,29.1,29.1
+2017-01-01,Index,Business Confidence,2018-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,32.9,32.9
+2018-01-01,Index,Business Confidence,2019-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,32.8,32.8
+2019-01-01,Index,Business Confidence,2020-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,34.9,34.9
+2020-01-01,Index,Business Confidence,2021-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,37.8,37.8
+2021-01-01,Index,Business Confidence,2022-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Business Confidence,42,42
+2009-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1056513,1056513
+2009-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1333014,1333014
+2009-01-01,Metric Tonnes,Port-wide Cargo Throughput,2010-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2389527,2389527
+2009-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,989424,989424
+2009-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1213015,1213015
+2009-04-01,Metric Tonnes,Port-wide Cargo Throughput,2010-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2202439,2202439
+2009-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1067438,1067438
+2009-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1423441,1423441
+2009-07-01,Metric Tonnes,Port-wide Cargo Throughput,2010-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2490879,2490879
+2009-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1162947,1162947
+2009-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2010-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1271451,1271451
+2009-10-01,Metric Tonnes,Port-wide Cargo Throughput,2010-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2434398,2434398
+2010-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1098229,1098229
+2010-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1289807,1289807
+2010-01-01,Metric Tonnes,Port-wide Cargo Throughput,2011-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2388036,2388036
+2010-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1125934,1125934
+2010-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1336911,1336911
+2010-04-01,Metric Tonnes,Port-wide Cargo Throughput,2011-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2462845,2462845
+2010-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1049514,1049514
+2010-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1171435,1171435
+2010-07-01,Metric Tonnes,Port-wide Cargo Throughput,2011-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2220949,2220949
+2010-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1175477,1175477
+2010-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2011-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1239305,1239305
+2010-10-01,Metric Tonnes,Port-wide Cargo Throughput,2011-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2414782,2414782
+2011-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1037809,1037809
+2011-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,999802,999802
+2011-01-01,Metric Tonnes,Port-wide Cargo Throughput,2012-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2037611,2037611
+2011-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1035727,1035727
+2011-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1145812,1145812
+2011-04-01,Metric Tonnes,Port-wide Cargo Throughput,2012-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2181539,2181539
+2011-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1336122,1336122
+2011-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1348673,1348673
+2011-07-01,Metric Tonnes,Port-wide Cargo Throughput,2012-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2684795,2684795
+2011-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1271857,1271857
+2011-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2012-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1315159,1315159
+2011-10-01,Metric Tonnes,Port-wide Cargo Throughput,2012-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2587016,2587016
+2012-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1155633,1155633
+2012-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1181833,1181833
+2012-01-01,Metric Tonnes,Port-wide Cargo Throughput,2013-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2337466,2337466
+2012-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1062735,1062735
+2012-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1131526,1131526
+2012-04-01,Metric Tonnes,Port-wide Cargo Throughput,2013-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2194261,2194261
+2012-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,979516,979516
+2012-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1129973,1129973
+2012-07-01,Metric Tonnes,Port-wide Cargo Throughput,2013-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2109489,2109489
+2012-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,849332,849332
+2012-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2013-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1117496,1117496
+2012-10-01,Metric Tonnes,Port-wide Cargo Throughput,2013-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1966828,1966828
+2013-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1177616,1177616
+2013-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,859356,859356
+2013-01-01,Metric Tonnes,Port-wide Cargo Throughput,2014-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2036972,2036972
+2013-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,911346,911346
+2013-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,944234,944234
+2013-04-01,Metric Tonnes,Port-wide Cargo Throughput,2014-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1855580,1855580
+2013-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1037315,1037315
+2013-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,947117,947117
+2013-07-01,Metric Tonnes,Port-wide Cargo Throughput,2014-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1984432,1984432
+2013-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,996815,996815
+2013-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2014-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,958084,958084
+2013-10-01,Metric Tonnes,Port-wide Cargo Throughput,2014-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1954899,1954899
+2014-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1074515,1074515
+2014-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,772593,772593
+2014-01-01,Metric Tonnes,Port-wide Cargo Throughput,2015-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1847108,1847108
+2014-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,917599,917599
+2014-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,865860,865860
+2014-04-01,Metric Tonnes,Port-wide Cargo Throughput,2015-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1783459,1783459
+2014-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,889609,889609
+2014-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,867519,867519
+2014-07-01,Metric Tonnes,Port-wide Cargo Throughput,2015-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1757128,1757128
+2014-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1110082,1110082
+2014-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2015-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1071509,1071509
+2014-10-01,Metric Tonnes,Port-wide Cargo Throughput,2015-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2181591,2181591
+2015-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,995803,995803
+2015-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,860608,860608
+2015-01-01,Metric Tonnes,Port-wide Cargo Throughput,2016-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1856411,1856411
+2015-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1042176,1042176
+2015-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1075546,1075546
+2015-04-01,Metric Tonnes,Port-wide Cargo Throughput,2016-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2117722,2117722
+2015-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,903057,903057
+2015-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1021545,1021545
+2015-07-01,Metric Tonnes,Port-wide Cargo Throughput,2016-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1924602,1924602
+2015-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1235642,1235642
+2015-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2016-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1137968,1137968
+2015-10-01,Metric Tonnes,Port-wide Cargo Throughput,2016-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2373610,2373610
+2016-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,999255,999255
+2016-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,966217,966217
+2016-01-01,Metric Tonnes,Port-wide Cargo Throughput,2017-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1965472,1965472
+2016-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1097586,1097586
+2016-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1143379,1143379
+2016-04-01,Metric Tonnes,Port-wide Cargo Throughput,2017-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2240965,2240965
+2016-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1119210,1119210
+2016-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1091682,1091682
+2016-07-01,Metric Tonnes,Port-wide Cargo Throughput,2017-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2210892,2210892
+2016-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1274606,1274606
+2016-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2017-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1210413,1210413
+2016-10-01,Metric Tonnes,Port-wide Cargo Throughput,2017-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2485019,2485019
+2017-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1114246,1114246
+2017-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,952284,952284
+2017-01-01,Metric Tonnes,Port-wide Cargo Throughput,2018-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2066530,2066530
+2017-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1159688,1159688
+2017-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1282927,1282927
+2017-04-01,Metric Tonnes,Port-wide Cargo Throughput,2018-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2442615,2442615
+2017-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1120822,1120822
+2017-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1083075,1083075
+2017-07-01,Metric Tonnes,Port-wide Cargo Throughput,2018-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2203897,2203897
+2017-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1148815,1148815
+2017-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2018-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1128432,1128432
+2017-10-01,Metric Tonnes,Port-wide Cargo Throughput,2018-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2277247,2277247
+2018-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1113641,1113641
+2018-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,963396,963396
+2018-01-01,Metric Tonnes,Port-wide Cargo Throughput,2019-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2077037,2077037
+2018-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1084784,1084784
+2018-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1188731,1188731
+2018-04-01,Metric Tonnes,Port-wide Cargo Throughput,2019-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2273515,2273515
+2018-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,946242,946242
+2018-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1192938,1192938
+2018-07-01,Metric Tonnes,Port-wide Cargo Throughput,2019-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2139180,2139180
+2018-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1000168,1000168
+2018-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2019-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1132350,1132350
+2018-10-01,Metric Tonnes,Port-wide Cargo Throughput,2019-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2132518,2132518
+2019-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,881348,881348
+2019-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1026230,1026230
+2019-01-01,Metric Tonnes,Port-wide Cargo Throughput,2020-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1907578,1907578
+2019-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,856908,856908
+2019-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1065821,1065821
+2019-04-01,Metric Tonnes,Port-wide Cargo Throughput,2020-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1922729,1922729
+2019-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1053374,1053374
+2019-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1092886,1092886
+2019-07-01,Metric Tonnes,Port-wide Cargo Throughput,2020-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2146260,2146260
+2019-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1009131,1009131
+2019-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2020-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1287759,1287759
+2019-10-01,Metric Tonnes,Port-wide Cargo Throughput,2020-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2296890,2296890
+2020-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1041729,1041729
+2020-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1019222,1019222
+2020-01-01,Metric Tonnes,Port-wide Cargo Throughput,2021-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2060951,2060951
+2020-04-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1135931,1135931
+2020-04-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1110281,1110281
+2020-04-01,Metric Tonnes,Port-wide Cargo Throughput,2021-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2246212,2246212
+2020-07-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1188940,1188940
+2020-07-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1083362,1083362
+2020-07-01,Metric Tonnes,Port-wide Cargo Throughput,2021-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2272302,2272302
+2020-10-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1185586,1185586
+2020-10-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2021-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,1197385,1197385
+2020-10-01,Metric Tonnes,Port-wide Cargo Throughput,2021-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,2382971,2382971
+2021-01-01,,IMPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2022-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,65151,65151
+2021-01-01,,EXPORTS Port-Wide Cargo at HPA & Non-HPA Facilities (metric tonnes),2022-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,59901,59901
+2021-01-01,Metric Tonnes,Port-wide Cargo Throughput,2022-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Port Traffic,125052,125052
+2011-01-01,Persons,Air Passengers,2012-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,228186,228186
+2011-02-01,Persons,Air Passengers,2012-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,253786,253786
+2011-03-01,Persons,Air Passengers,2012-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,330153,330153
+2011-04-01,Persons,Air Passengers,2012-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,347301,347301
+2011-05-01,Persons,Air Passengers,2012-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,312897,312897
+2011-06-01,Persons,Air Passengers,2012-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,293019,293019
+2011-07-01,Persons,Air Passengers,2012-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,351496,351496
+2011-08-01,Persons,Air Passengers,2012-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,388722,388722
+2011-09-01,Persons,Air Passengers,2012-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,302957,302957
+2011-10-01,Persons,Air Passengers,2012-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,301585,301585
+2011-11-01,Persons,Air Passengers,2012-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,241298,241298
+2011-12-01,Persons,Air Passengers,2012-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,254301,254301
+2012-01-01,Persons,Air Passengers,2013-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,226999,226999
+2012-02-01,Persons,Air Passengers,2013-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,232961,232961
+2012-03-01,Persons,Air Passengers,2013-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,328082,328082
+2012-04-01,Persons,Air Passengers,2013-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,332421,332421
+2012-05-01,Persons,Air Passengers,2013-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,303804,303804
+2012-06-01,Persons,Air Passengers,2013-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,295946,295946
+2012-07-01,Persons,Air Passengers,2013-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,354930,354930
+2012-08-01,Persons,Air Passengers,2013-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,383117,383117
+2012-09-01,Persons,Air Passengers,2013-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,304861,304861
+2012-10-01,Persons,Air Passengers,2013-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,308110,308110
+2012-11-01,Persons,Air Passengers,2013-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,244363,244363
+2012-12-01,Persons,Air Passengers,2013-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,270270,270270
+2013-01-01,Persons,Air Passengers,2014-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,227452,227452
+2013-02-01,Persons,Air Passengers,2014-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,233438,233438
+2013-03-01,Persons,Air Passengers,2014-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,306680,306680
+2013-04-01,Persons,Air Passengers,2014-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,333562,333562
+2013-05-01,Persons,Air Passengers,2014-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,320010,320010
+2013-06-01,Persons,Air Passengers,2014-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,310400,310400
+2013-07-01,Persons,Air Passengers,2014-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,368107,368107
+2013-08-01,Persons,Air Passengers,2014-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,405926,405926
+2013-09-01,Persons,Air Passengers,2014-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,317879,317879
+2013-10-01,Persons,Air Passengers,2014-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,321992,321992
+2013-11-01,Persons,Air Passengers,2014-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,249420,249420
+2013-12-01,Persons,Air Passengers,2014-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,268173,268173
+2014-01-01,Persons,Air Passengers,2015-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,225301,225301
+2014-02-01,Persons,Air Passengers,2015-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,235076,235076
+2014-03-01,Persons,Air Passengers,2015-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,303399,303399
+2014-04-01,Persons,Air Passengers,2015-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,329017,329017
+2014-05-01,Persons,Air Passengers,2015-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,320359,320359
+2014-06-01,Persons,Air Passengers,2015-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,315629,315629
+2014-07-01,Persons,Air Passengers,2015-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,381448,381448
+2014-08-01,Persons,Air Passengers,2015-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,419109,419109
+2014-09-01,Persons,Air Passengers,2015-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,342114,342114
+2014-10-01,Persons,Air Passengers,2015-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,317447,317447
+2014-11-01,Persons,Air Passengers,2015-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,245494,245494
+2014-12-01,Persons,Air Passengers,2015-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,268312,268312
+2015-01-01,Persons,Air Passengers,2016-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,225788,225788
+2015-02-01,Persons,Air Passengers,2016-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,244896,244896
+2015-03-01,Persons,Air Passengers,2016-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,322825,322825
+2015-04-01,Persons,Air Passengers,2016-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,335744,335744
+2015-05-01,Persons,Air Passengers,2016-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,347055,347055
+2015-06-01,Persons,Air Passengers,2016-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,347861,347861
+2015-07-01,Persons,Air Passengers,2016-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,398887,398887
+2015-08-01,Persons,Air Passengers,2016-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,432703,432703
+2015-09-01,Persons,Air Passengers,2016-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,368071,368071
+2015-10-01,Persons,Air Passengers,2016-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,338986,338986
+2015-11-01,Persons,Air Passengers,2016-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,261878,261878
+2015-12-01,Persons,Air Passengers,2016-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,284105,284105
+2016-01-01,Persons,Air Passengers,2017-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,238500,238500
+2016-02-01,Persons,Air Passengers,2017-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,238159,238159
+2016-03-01,Persons,Air Passengers,2017-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,335775,335775
+2016-04-01,Persons,Air Passengers,2017-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,369633,369633
+2016-05-01,Persons,Air Passengers,2017-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,359336,359336
+2016-06-01,Persons,Air Passengers,2017-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,356166,356166
+2016-07-01,Persons,Air Passengers,2017-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,427011,427011
+2016-08-01,Persons,Air Passengers,2017-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,452238,452238
+2016-09-01,Persons,Air Passengers,2017-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,374923,374923
+2016-10-01,Persons,Air Passengers,2017-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,351452,351452
+2016-11-01,Persons,Air Passengers,2017-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,281840,281840
+2016-12-01,Persons,Air Passengers,2017-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,298155,298155
+2017-01-01,Persons,Air Passengers,2018-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,243932,243932
+2017-02-01,Persons,Air Passengers,2018-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,250595,250595
+2017-03-01,Persons,Air Passengers,2018-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,341623,341623
+2017-04-01,Persons,Air Passengers,2018-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,370004,370004
+2017-05-01,Persons,Air Passengers,2018-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,373808,373808
+2017-06-01,Persons,Air Passengers,2018-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,405573,405573
+2017-07-01,Persons,Air Passengers,2018-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,453404,453404
+2017-08-01,Persons,Air Passengers,2018-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,499457,499457
+2017-09-01,Persons,Air Passengers,2018-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,419327,419327
+2017-10-01,Persons,Air Passengers,2018-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,387903,387903
+2017-11-01,Persons,Air Passengers,2018-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,273417,273417
+2017-12-01,Persons,Air Passengers,2018-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,297036,297036
+2018-01-01,Persons,Air Passengers,2019-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,248543,248543
+2018-02-01,Persons,Air Passengers,2019-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,254508,254508
+2018-03-01,Persons,Air Passengers,2019-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,325348,325348
+2018-04-01,Persons,Air Passengers,2019-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,349768,349768
+2018-05-01,Persons,Air Passengers,2019-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,379885,379885
+2018-06-01,Persons,Air Passengers,2019-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,390311,390311
+2018-07-01,Persons,Air Passengers,2019-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,443174,443174
+2018-08-01,Persons,Air Passengers,2019-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,486511,486511
+2018-09-01,Persons,Air Passengers,2019-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,395850,395850
+2018-10-01,Persons,Air Passengers,2019-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,371009,371009
+2018-11-01,Persons,Air Passengers,2019-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,258891,258891
+2018-12-01,Persons,Air Passengers,2019-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,284645,284645
+2019-01-01,Persons,Air Passengers,2020-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,241510,241510
+2019-02-01,Persons,Air Passengers,2020-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,259702,259702
+2019-03-01,Persons,Air Passengers,2020-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,190962,190962
+2019-04-01,Persons,Air Passengers,2020-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,9420,9420
+2019-05-01,Persons,Air Passengers,2020-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,10895,10895
+2019-06-01,Persons,Air Passengers,2020-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,20181,20181
+2019-07-01,Persons,Air Passengers,2020-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,42077,42077
+2019-08-01,Persons,Air Passengers,2020-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,58302,58302
+2019-09-01,Persons,Air Passengers,2020-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,46108,46108
+2019-10-01,Persons,Air Passengers,2020-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,43298,43298
+2019-11-01,Persons,Air Passengers,2020-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,37901,37901
+2019-12-01,Persons,Air Passengers,2020-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,35070,35070
+2020-01-01,Persons,Air Passengers,2021-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,30823,30823
+2020-02-01,Persons,Air Passengers,2021-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,17230,17230
+2020-03-01,Persons,Air Passengers,2021-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,20530,20530
+2020-04-01,Persons,Air Passengers,2021-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,22797,22797
+2020-05-01,Persons,Air Passengers,2021-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,17101,17101
+2020-06-01,Persons,Air Passengers,2021-06-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,21645,21645
+2020-07-01,Persons,Air Passengers,2021-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,83348,83348
+2020-08-01,Persons,Air Passengers,2021-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,192655,192655
+2020-09-01,Persons,Air Passengers,2021-09-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,191664,191664
+2020-10-01,Persons,Air Passengers,2021-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,188363,188363
+2020-11-01,Persons,Air Passengers,2021-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,132241,132241
+2020-12-01,Persons,Air Passengers,2021-12-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,158061,158061
+2021-01-01,Persons,Air Passengers,2022-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,86665,86665
+2021-02-01,Persons,Air Passengers,2022-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,83470,83470
+2021-03-01,Persons,Air Passengers,2022-03-01,Economic Dashboard - Manual Data Sheet.xlsx/Air Passengers,160214,160214
+2007-11-01,Index,Consumer Confidence,2008-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,88.5,88.5
+2008-02-01,Index,Consumer Confidence,2009-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,80.5,80.5
+2008-05-01,Index,Consumer Confidence,2009-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,90.8,90.8
+2008-08-01,Index,Consumer Confidence,2009-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,100.5,100.5
+2008-11-01,Index,Consumer Confidence,2009-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,107.4,107.4
+2009-02-01,Index,Consumer Confidence,2010-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,107,107
+2009-05-01,Index,Consumer Confidence,2010-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104.2,104.2
+2009-08-01,Index,Consumer Confidence,2010-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,103.7,103.7
+2009-11-01,Index,Consumer Confidence,2010-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.2,102.2
+2010-02-01,Index,Consumer Confidence,2011-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.1,102.1
+2010-05-01,Index,Consumer Confidence,2011-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,95.2,95.2
+2010-08-01,Index,Consumer Confidence,2011-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,94.3,94.3
+2010-11-01,Index,Consumer Confidence,2011-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,100.3,100.3
+2011-02-01,Index,Consumer Confidence,2012-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,98.3,98.3
+2011-05-01,Index,Consumer Confidence,2012-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,95.6,95.6
+2011-08-01,Index,Consumer Confidence,2012-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,100,100
+2011-11-01,Index,Consumer Confidence,2012-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104.8,104.8
+2012-02-01,Index,Consumer Confidence,2013-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,100.1,100.1
+2012-05-01,Index,Consumer Confidence,2013-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,99.1,99.1
+2012-08-01,Index,Consumer Confidence,2013-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.6,102.6
+2012-11-01,Index,Consumer Confidence,2013-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102,102
+2013-02-01,Index,Consumer Confidence,2014-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.1,102.1
+2013-05-01,Index,Consumer Confidence,2014-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,98.4,98.4
+2013-08-01,Index,Consumer Confidence,2014-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.5,102.5
+2013-11-01,Index,Consumer Confidence,2014-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.9,102.9
+2014-02-01,Index,Consumer Confidence,2015-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,100.8,100.8
+2014-05-01,Index,Consumer Confidence,2015-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,95.9,95.9
+2014-08-01,Index,Consumer Confidence,2015-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,96.6,96.6
+2014-11-01,Index,Consumer Confidence,2015-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104.9,104.9
+2015-02-01,Index,Consumer Confidence,2016-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,94.1,94.1
+2015-05-01,Index,Consumer Confidence,2016-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,100.9,100.9
+2015-08-01,Index,Consumer Confidence,2016-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104.9,104.9
+2015-11-01,Index,Consumer Confidence,2016-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104.6,104.6
+2016-02-01,Index,Consumer Confidence,2017-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,103.7,103.7
+2016-05-01,Index,Consumer Confidence,2017-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102.7,102.7
+2016-08-01,Index,Consumer Confidence,2017-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,107.1,107.1
+2016-11-01,Index,Consumer Confidence,2017-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104.6,104.6
+2017-02-01,Index,Consumer Confidence,2018-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,106.6,106.6
+2017-05-01,Index,Consumer Confidence,2018-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,104,104
+2017-08-01,Index,Consumer Confidence,2018-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,103.6,103.6
+2017-11-01,Index,Consumer Confidence,2018-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,103.6,103.6
+2018-02-01,Index,Consumer Confidence,2019-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,107.8,107.8
+2018-05-01,Index,Consumer Confidence,2019-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,102,102
+2018-08-01,Index,Consumer Confidence,2019-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,103.8,103.8
+2018-11-01,Index,Consumer Confidence,2019-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,105.4,105.4
+2019-02-01,Index,Consumer Confidence,2020-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,92,92
+2019-05-01,Index,Consumer Confidence,2020-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,88,88
+2019-08-01,Index,Consumer Confidence,2020-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,83.6,83.6
+2019-11-01,Index,Consumer Confidence,2020-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,85.3,85.3
+2020-02-01,Index,Consumer Confidence,2021-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,88.5,88.5
+2020-05-01,Index,Consumer Confidence,2021-05-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,90.3,90.3
+2020-08-01,Index,Consumer Confidence,2021-08-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,94.6,94.6
+2020-11-01,Index,Consumer Confidence,2021-11-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,87.9,87.9
+2021-02-01,Index,Consumer Confidence,2022-02-01,Economic Dashboard - Manual Data Sheet.xlsx/Consumer Confidence,81.5,81.5
+2009-01-01,Persons,Cruise Passengers,2010-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2009-04-01,Persons,Cruise Passengers,2010-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,21488,21488
+2009-07-01,Persons,Cruise Passengers,2010-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,155935,155935
+2009-10-01,Persons,Cruise Passengers,2010-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,83793,83793
+2010-01-01,Persons,Cruise Passengers,2011-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2010-04-01,Persons,Cruise Passengers,2011-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,34867,34867
+2010-07-01,Persons,Cruise Passengers,2011-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,140451,140451
+2010-10-01,Persons,Cruise Passengers,2011-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,68259,68259
+2011-01-01,Persons,Cruise Passengers,2012-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2011-04-01,Persons,Cruise Passengers,2012-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,28599,28599
+2011-07-01,Persons,Cruise Passengers,2012-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,132439,132439
+2011-10-01,Persons,Cruise Passengers,2012-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,91809,91809
+2012-01-01,Persons,Cruise Passengers,2013-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2012-04-01,Persons,Cruise Passengers,2013-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,35371,35371
+2012-07-01,Persons,Cruise Passengers,2013-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,140467,140467
+2012-10-01,Persons,Cruise Passengers,2013-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,76283,76283
+2013-01-01,Persons,Cruise Passengers,2014-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2013-04-01,Persons,Cruise Passengers,2014-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,24633,24633
+2013-07-01,Persons,Cruise Passengers,2014-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,105415,105415
+2013-10-01,Persons,Cruise Passengers,2014-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,87257,87257
+2014-01-01,Persons,Cruise Passengers,2015-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2014-04-01,Persons,Cruise Passengers,2015-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,23787,23787
+2014-07-01,Persons,Cruise Passengers,2015-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,117710,117710
+2014-10-01,Persons,Cruise Passengers,2015-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,80812,80812
+2015-01-01,Persons,Cruise Passengers,2016-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2015-04-01,Persons,Cruise Passengers,2016-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,24876,24876
+2015-07-01,Persons,Cruise Passengers,2016-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,122772,122772
+2015-10-01,Persons,Cruise Passengers,2016-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,90569,90569
+2016-01-01,Persons,Cruise Passengers,2017-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2016-04-01,Persons,Cruise Passengers,2017-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,30443,30443
+2016-07-01,Persons,Cruise Passengers,2017-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,152612,152612
+2016-10-01,Persons,Cruise Passengers,2017-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,109667,109667
+2017-01-01,Persons,Cruise Passengers,2018-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2017-04-01,Persons,Cruise Passengers,2018-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,42072,42072
+2017-07-01,Persons,Cruise Passengers,2018-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,165538,165538
+2017-10-01,Persons,Cruise Passengers,2018-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,109259,109259
+2018-01-01,Persons,Cruise Passengers,2019-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2018-04-01,Persons,Cruise Passengers,2019-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,41816,41816
+2018-07-01,Persons,Cruise Passengers,2019-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,171010,171010
+2018-10-01,Persons,Cruise Passengers,2019-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,110883,110883
+2019-01-01,Persons,Cruise Passengers,2020-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2019-04-01,Persons,Cruise Passengers,2020-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2019-07-01,Persons,Cruise Passengers,2020-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2019-10-01,Persons,Cruise Passengers,2020-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2020-01-01,Persons,Cruise Passengers,2021-01-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2020-04-01,Persons,Cruise Passengers,2021-04-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2020-07-01,Persons,Cruise Passengers,2021-07-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2020-10-01,Persons,Cruise Passengers,2021-10-01,Economic Dashboard - Manual Data Sheet.xlsx/Cruise Passengers,0,0
+2010-09-01,(2002=100),Consumer Price Index,2011-09-01,table 18100004.hyper/table 18100004,122.8,122.8
+2010-10-01,(2002=100),Consumer Price Index,2011-10-01,table 18100004.hyper/table 18100004,122.9,122.9
+2010-11-01,(2002=100),Consumer Price Index,2011-11-01,table 18100004.hyper/table 18100004,122.9,122.9
+2010-12-01,(2002=100),Consumer Price Index,2011-12-01,table 18100004.hyper/table 18100004,121.6,121.6
+2011-01-01,(2002=100),Consumer Price Index,2012-01-01,table 18100004.hyper/table 18100004,122.4,122.4
+2011-02-01,(2002=100),Consumer Price Index,2012-02-01,table 18100004.hyper/table 18100004,123,123
+2011-03-01,(2002=100),Consumer Price Index,2012-03-01,table 18100004.hyper/table 18100004,124,124
+2011-04-01,(2002=100),Consumer Price Index,2012-04-01,table 18100004.hyper/table 18100004,124.8,124.8
+2011-05-01,(2002=100),Consumer Price Index,2012-05-01,table 18100004.hyper/table 18100004,124.2,124.2
+2011-06-01,(2002=100),Consumer Price Index,2012-06-01,table 18100004.hyper/table 18100004,123.5,123.5
+2011-07-01,(2002=100),Consumer Price Index,2012-07-01,table 18100004.hyper/table 18100004,123.3,123.3
+2011-08-01,(2002=100),Consumer Price Index,2012-08-01,table 18100004.hyper/table 18100004,123.8,123.8
+2011-09-01,(2002=100),Consumer Price Index,2012-09-01,table 18100004.hyper/table 18100004,124.5,124.5
+2011-10-01,(2002=100),Consumer Price Index,2012-10-01,table 18100004.hyper/table 18100004,124.4,124.4
+2011-11-01,(2002=100),Consumer Price Index,2012-11-01,table 18100004.hyper/table 18100004,124.3,124.3
+2011-12-01,(2002=100),Consumer Price Index,2012-12-01,table 18100004.hyper/table 18100004,123.7,123.7
+2012-01-01,(2002=100),Consumer Price Index,2013-01-01,table 18100004.hyper/table 18100004,124.1,124.1
+2012-02-01,(2002=100),Consumer Price Index,2013-02-01,table 18100004.hyper/table 18100004,125.2,125.2
+2012-03-01,(2002=100),Consumer Price Index,2013-03-01,table 18100004.hyper/table 18100004,125.3,125.3
+2012-04-01,(2002=100),Consumer Price Index,2013-04-01,table 18100004.hyper/table 18100004,125.4,125.4
+2012-05-01,(2002=100),Consumer Price Index,2013-05-01,table 18100004.hyper/table 18100004,125.1,125.1
+2012-06-01,(2002=100),Consumer Price Index,2013-06-01,table 18100004.hyper/table 18100004,125,125
+2012-07-01,(2002=100),Consumer Price Index,2013-07-01,table 18100004.hyper/table 18100004,125.1,125.1
+2012-08-01,(2002=100),Consumer Price Index,2013-08-01,table 18100004.hyper/table 18100004,125.2,125.2
+2012-09-01,(2002=100),Consumer Price Index,2013-09-01,table 18100004.hyper/table 18100004,126,126
+2012-10-01,(2002=100),Consumer Price Index,2013-10-01,table 18100004.hyper/table 18100004,125.4,125.4
+2012-11-01,(2002=100),Consumer Price Index,2013-11-01,table 18100004.hyper/table 18100004,125.5,125.5
+2012-12-01,(2002=100),Consumer Price Index,2013-12-01,table 18100004.hyper/table 18100004,125.4,125.4
+2013-01-01,(2002=100),Consumer Price Index,2014-01-01,table 18100004.hyper/table 18100004,126,126
+2013-02-01,(2002=100),Consumer Price Index,2014-02-01,table 18100004.hyper/table 18100004,127,127
+2013-03-01,(2002=100),Consumer Price Index,2014-03-01,table 18100004.hyper/table 18100004,127.6,127.6
+2013-04-01,(2002=100),Consumer Price Index,2014-04-01,table 18100004.hyper/table 18100004,127.7,127.7
+2013-05-01,(2002=100),Consumer Price Index,2014-05-01,table 18100004.hyper/table 18100004,128.2,128.2
+2013-06-01,(2002=100),Consumer Price Index,2014-06-01,table 18100004.hyper/table 18100004,127.7,127.7
+2013-07-01,(2002=100),Consumer Price Index,2014-07-01,table 18100004.hyper/table 18100004,127.5,127.5
+2013-08-01,(2002=100),Consumer Price Index,2014-08-01,table 18100004.hyper/table 18100004,127.7,127.7
+2013-09-01,(2002=100),Consumer Price Index,2014-09-01,table 18100004.hyper/table 18100004,128.2,128.2
+2013-10-01,(2002=100),Consumer Price Index,2014-10-01,table 18100004.hyper/table 18100004,128.2,128.2
+2013-11-01,(2002=100),Consumer Price Index,2014-11-01,table 18100004.hyper/table 18100004,127.4,127.4
+2013-12-01,(2002=100),Consumer Price Index,2014-12-01,table 18100004.hyper/table 18100004,126.2,126.2
+2014-01-01,(2002=100),Consumer Price Index,2015-01-01,table 18100004.hyper/table 18100004,125.8,125.8
+2014-02-01,(2002=100),Consumer Price Index,2015-02-01,table 18100004.hyper/table 18100004,126.9,126.9
+2014-03-01,(2002=100),Consumer Price Index,2015-03-01,table 18100004.hyper/table 18100004,128.4,128.4
+2014-04-01,(2002=100),Consumer Price Index,2015-04-01,table 18100004.hyper/table 18100004,128.3,128.3
+2014-05-01,(2002=100),Consumer Price Index,2015-05-01,table 18100004.hyper/table 18100004,128.9,128.9
+2014-06-01,(2002=100),Consumer Price Index,2015-06-01,table 18100004.hyper/table 18100004,128.9,128.9
+2014-07-01,(2002=100),Consumer Price Index,2015-07-01,table 18100004.hyper/table 18100004,128.9,128.9
+2014-08-01,(2002=100),Consumer Price Index,2015-08-01,table 18100004.hyper/table 18100004,128.8,128.8
+2014-09-01,(2002=100),Consumer Price Index,2015-09-01,table 18100004.hyper/table 18100004,128.4,128.4
+2014-10-01,(2002=100),Consumer Price Index,2015-10-01,table 18100004.hyper/table 18100004,128.8,128.8
+2014-11-01,(2002=100),Consumer Price Index,2015-11-01,table 18100004.hyper/table 18100004,128.1,128.1
+2014-12-01,(2002=100),Consumer Price Index,2015-12-01,table 18100004.hyper/table 18100004,127.7,127.7
+2015-01-01,(2002=100),Consumer Price Index,2016-01-01,table 18100004.hyper/table 18100004,128.2,128.2
+2015-02-01,(2002=100),Consumer Price Index,2016-02-01,table 18100004.hyper/table 18100004,128.4,128.4
+2015-03-01,(2002=100),Consumer Price Index,2016-03-01,table 18100004.hyper/table 18100004,129,129
+2015-04-01,(2002=100),Consumer Price Index,2016-04-01,table 18100004.hyper/table 18100004,129.9,129.9
+2015-05-01,(2002=100),Consumer Price Index,2016-05-01,table 18100004.hyper/table 18100004,130.5,130.5
+2015-06-01,(2002=100),Consumer Price Index,2016-06-01,table 18100004.hyper/table 18100004,130.6,130.6
+2015-07-01,(2002=100),Consumer Price Index,2016-07-01,table 18100004.hyper/table 18100004,130.1,130.1
+2015-08-01,(2002=100),Consumer Price Index,2016-08-01,table 18100004.hyper/table 18100004,130.1,130.1
+2015-09-01,(2002=100),Consumer Price Index,2016-09-01,table 18100004.hyper/table 18100004,130.6,130.6
+2015-10-01,(2002=100),Consumer Price Index,2016-10-01,table 18100004.hyper/table 18100004,130.5,130.5
+2015-11-01,(2002=100),Consumer Price Index,2016-11-01,table 18100004.hyper/table 18100004,129.8,129.8
+2015-12-01,(2002=100),Consumer Price Index,2016-12-01,table 18100004.hyper/table 18100004,129.5,129.5
+2005-05-01,(2002=100),Consumer Price Index,2006-05-01,table 18100004.hyper/table 18100004,110.5,110.5
+2005-06-01,(2002=100),Consumer Price Index,2006-06-01,table 18100004.hyper/table 18100004,110.3,110.3
+2005-07-01,(2002=100),Consumer Price Index,2006-07-01,table 18100004.hyper/table 18100004,110.5,110.5
+2005-08-01,(2002=100),Consumer Price Index,2006-08-01,table 18100004.hyper/table 18100004,110.7,110.7
+2005-09-01,(2002=100),Consumer Price Index,2006-09-01,table 18100004.hyper/table 18100004,110,110
+2005-10-01,(2002=100),Consumer Price Index,2006-10-01,table 18100004.hyper/table 18100004,109.7,109.7
+2005-11-01,(2002=100),Consumer Price Index,2006-11-01,table 18100004.hyper/table 18100004,110,110
+2005-12-01,(2002=100),Consumer Price Index,2006-12-01,table 18100004.hyper/table 18100004,109.7,109.7
+2006-01-01,(2002=100),Consumer Price Index,2007-01-01,table 18100004.hyper/table 18100004,109.7,109.7
+2006-02-01,(2002=100),Consumer Price Index,2007-02-01,table 18100004.hyper/table 18100004,110.6,110.6
+2006-03-01,(2002=100),Consumer Price Index,2007-03-01,table 18100004.hyper/table 18100004,111.4,111.4
+2006-04-01,(2002=100),Consumer Price Index,2007-04-01,table 18100004.hyper/table 18100004,111.9,111.9
+2006-05-01,(2002=100),Consumer Price Index,2007-05-01,table 18100004.hyper/table 18100004,112.5,112.5
+2006-06-01,(2002=100),Consumer Price Index,2007-06-01,table 18100004.hyper/table 18100004,112.5,112.5
+2006-07-01,(2002=100),Consumer Price Index,2007-07-01,table 18100004.hyper/table 18100004,112.4,112.4
+2006-08-01,(2002=100),Consumer Price Index,2007-08-01,table 18100004.hyper/table 18100004,112.2,112.2
+2006-09-01,(2002=100),Consumer Price Index,2007-09-01,table 18100004.hyper/table 18100004,112.6,112.6
+2006-10-01,(2002=100),Consumer Price Index,2007-10-01,table 18100004.hyper/table 18100004,112.3,112.3
+2006-11-01,(2002=100),Consumer Price Index,2007-11-01,table 18100004.hyper/table 18100004,113.1,113.1
+2006-12-01,(2002=100),Consumer Price Index,2007-12-01,table 18100004.hyper/table 18100004,113.1,113.1
+2007-01-01,(2002=100),Consumer Price Index,2008-01-01,table 18100004.hyper/table 18100004,112.9,112.9
+2007-02-01,(2002=100),Consumer Price Index,2008-02-01,table 18100004.hyper/table 18100004,113.4,113.4
+2007-03-01,(2002=100),Consumer Price Index,2008-03-01,table 18100004.hyper/table 18100004,113.9,113.9
+2007-04-01,(2002=100),Consumer Price Index,2008-04-01,table 18100004.hyper/table 18100004,114.8,114.8
+2007-05-01,(2002=100),Consumer Price Index,2008-05-01,table 18100004.hyper/table 18100004,116.2,116.2
+2007-06-01,(2002=100),Consumer Price Index,2008-06-01,table 18100004.hyper/table 18100004,116.9,116.9
+2007-07-01,(2002=100),Consumer Price Index,2008-07-01,table 18100004.hyper/table 18100004,116.9,116.9
+2007-08-01,(2002=100),Consumer Price Index,2008-08-01,table 18100004.hyper/table 18100004,116.9,116.9
+2007-09-01,(2002=100),Consumer Price Index,2008-09-01,table 18100004.hyper/table 18100004,116.8,116.8
+2007-10-01,(2002=100),Consumer Price Index,2008-10-01,table 18100004.hyper/table 18100004,115.8,115.8
+2007-11-01,(2002=100),Consumer Price Index,2008-11-01,table 18100004.hyper/table 18100004,114.5,114.5
+2007-12-01,(2002=100),Consumer Price Index,2008-12-01,table 18100004.hyper/table 18100004,113,113
+2008-01-01,(2002=100),Consumer Price Index,2009-01-01,table 18100004.hyper/table 18100004,113.1,113.1
+2008-02-01,(2002=100),Consumer Price Index,2009-02-01,table 18100004.hyper/table 18100004,113.9,113.9
+2008-03-01,(2002=100),Consumer Price Index,2009-03-01,table 18100004.hyper/table 18100004,114.1,114.1
+2008-04-01,(2002=100),Consumer Price Index,2009-04-01,table 18100004.hyper/table 18100004,114.7,114.7
+2008-05-01,(2002=100),Consumer Price Index,2009-05-01,table 18100004.hyper/table 18100004,115.3,115.3
+2008-06-01,(2002=100),Consumer Price Index,2009-06-01,table 18100004.hyper/table 18100004,116,116
+2008-07-01,(2002=100),Consumer Price Index,2009-07-01,table 18100004.hyper/table 18100004,116.1,116.1
+2008-08-01,(2002=100),Consumer Price Index,2009-08-01,table 18100004.hyper/table 18100004,116.2,116.2
+2008-09-01,(2002=100),Consumer Price Index,2009-09-01,table 18100004.hyper/table 18100004,116.3,116.3
+2008-10-01,(2002=100),Consumer Price Index,2009-10-01,table 18100004.hyper/table 18100004,115.4,115.4
+2008-11-01,(2002=100),Consumer Price Index,2009-11-01,table 18100004.hyper/table 18100004,116.5,116.5
+2008-12-01,(2002=100),Consumer Price Index,2009-12-01,table 18100004.hyper/table 18100004,115.8,115.8
+2009-01-01,(2002=100),Consumer Price Index,2010-01-01,table 18100004.hyper/table 18100004,116.3,116.3
+2009-02-01,(2002=100),Consumer Price Index,2010-02-01,table 18100004.hyper/table 18100004,116.3,116.3
+2009-03-01,(2002=100),Consumer Price Index,2010-03-01,table 18100004.hyper/table 18100004,117,117
+2009-04-01,(2002=100),Consumer Price Index,2010-04-01,table 18100004.hyper/table 18100004,117.3,117.3
+2009-05-01,(2002=100),Consumer Price Index,2010-05-01,table 18100004.hyper/table 18100004,117.1,117.1
+2009-06-01,(2002=100),Consumer Price Index,2010-06-01,table 18100004.hyper/table 18100004,116.7,116.7
+2009-07-01,(2002=100),Consumer Price Index,2010-07-01,table 18100004.hyper/table 18100004,118,118
+2009-08-01,(2002=100),Consumer Price Index,2010-08-01,table 18100004.hyper/table 18100004,118.1,118.1
+2009-09-01,(2002=100),Consumer Price Index,2010-09-01,table 18100004.hyper/table 18100004,118.3,118.3
+2009-10-01,(2002=100),Consumer Price Index,2010-10-01,table 18100004.hyper/table 18100004,118.6,118.6
+2009-11-01,(2002=100),Consumer Price Index,2010-11-01,table 18100004.hyper/table 18100004,118.9,118.9
+2009-12-01,(2002=100),Consumer Price Index,2010-12-01,table 18100004.hyper/table 18100004,118.6,118.6
+2010-01-01,(2002=100),Consumer Price Index,2011-01-01,table 18100004.hyper/table 18100004,119.5,119.5
+2010-02-01,(2002=100),Consumer Price Index,2011-02-01,table 18100004.hyper/table 18100004,120,120
+2010-03-01,(2002=100),Consumer Price Index,2011-03-01,table 18100004.hyper/table 18100004,121.3,121.3
+2010-04-01,(2002=100),Consumer Price Index,2011-04-01,table 18100004.hyper/table 18100004,121.9,121.9
+2010-05-01,(2002=100),Consumer Price Index,2011-05-01,table 18100004.hyper/table 18100004,122.1,122.1
+2010-06-01,(2002=100),Consumer Price Index,2011-06-01,table 18100004.hyper/table 18100004,121.5,121.5
+2010-07-01,(2002=100),Consumer Price Index,2011-07-01,table 18100004.hyper/table 18100004,121.8,121.8
+2010-08-01,(2002=100),Consumer Price Index,2011-08-01,table 18100004.hyper/table 18100004,122.2,122.2
+1994-07-01,(2002=100),Consumer Price Index,1995-07-01,table 18100004.hyper/table 18100004,87.4,87.4
+1994-08-01,(2002=100),Consumer Price Index,1995-08-01,table 18100004.hyper/table 18100004,86.9,86.9
+1994-09-01,(2002=100),Consumer Price Index,1995-09-01,table 18100004.hyper/table 18100004,87,87
+1994-10-01,(2002=100),Consumer Price Index,1995-10-01,table 18100004.hyper/table 18100004,86.9,86.9
+1994-11-01,(2002=100),Consumer Price Index,1995-11-01,table 18100004.hyper/table 18100004,87,87
+1994-12-01,(2002=100),Consumer Price Index,1995-12-01,table 18100004.hyper/table 18100004,86.5,86.5
+1995-01-01,(2002=100),Consumer Price Index,1996-01-01,table 18100004.hyper/table 18100004,87,87
+1995-02-01,(2002=100),Consumer Price Index,1996-02-01,table 18100004.hyper/table 18100004,87,87
+1995-03-01,(2002=100),Consumer Price Index,1996-03-01,table 18100004.hyper/table 18100004,87.4,87.4
+1995-04-01,(2002=100),Consumer Price Index,1996-04-01,table 18100004.hyper/table 18100004,87.7,87.7
+1995-05-01,(2002=100),Consumer Price Index,1996-05-01,table 18100004.hyper/table 18100004,88.7,88.7
+1995-06-01,(2002=100),Consumer Price Index,1996-06-01,table 18100004.hyper/table 18100004,88.5,88.5
+1995-07-01,(2002=100),Consumer Price Index,1996-07-01,table 18100004.hyper/table 18100004,88.2,88.2
+1995-08-01,(2002=100),Consumer Price Index,1996-08-01,table 18100004.hyper/table 18100004,88.4,88.4
+1995-09-01,(2002=100),Consumer Price Index,1996-09-01,table 18100004.hyper/table 18100004,88.6,88.6
+1995-10-01,(2002=100),Consumer Price Index,1996-10-01,table 18100004.hyper/table 18100004,89,89
+1995-11-01,(2002=100),Consumer Price Index,1996-11-01,table 18100004.hyper/table 18100004,89.3,89.3
+1995-12-01,(2002=100),Consumer Price Index,1996-12-01,table 18100004.hyper/table 18100004,89.5,89.5
+1996-01-01,(2002=100),Consumer Price Index,1997-01-01,table 18100004.hyper/table 18100004,89.4,89.4
+1996-02-01,(2002=100),Consumer Price Index,1997-02-01,table 18100004.hyper/table 18100004,89.5,89.5
+1996-03-01,(2002=100),Consumer Price Index,1997-03-01,table 18100004.hyper/table 18100004,89.9,89.9
+1996-04-01,(2002=100),Consumer Price Index,1997-04-01,table 18100004.hyper/table 18100004,90,90
+1996-05-01,(2002=100),Consumer Price Index,1997-05-01,table 18100004.hyper/table 18100004,90,90
+1996-06-01,(2002=100),Consumer Price Index,1997-06-01,table 18100004.hyper/table 18100004,89.8,89.8
+1996-07-01,(2002=100),Consumer Price Index,1997-07-01,table 18100004.hyper/table 18100004,90,90
+1996-08-01,(2002=100),Consumer Price Index,1997-08-01,table 18100004.hyper/table 18100004,90.2,90.2
+1996-09-01,(2002=100),Consumer Price Index,1997-09-01,table 18100004.hyper/table 18100004,90.2,90.2
+1996-10-01,(2002=100),Consumer Price Index,1997-10-01,table 18100004.hyper/table 18100004,90.4,90.4
+1996-11-01,(2002=100),Consumer Price Index,1997-11-01,table 18100004.hyper/table 18100004,90.2,90.2
+1996-12-01,(2002=100),Consumer Price Index,1997-12-01,table 18100004.hyper/table 18100004,90.1,90.1
+1997-01-01,(2002=100),Consumer Price Index,1998-01-01,table 18100004.hyper/table 18100004,90.7,90.7
+1997-02-01,(2002=100),Consumer Price Index,1998-02-01,table 18100004.hyper/table 18100004,90.6,90.6
+1997-03-01,(2002=100),Consumer Price Index,1998-03-01,table 18100004.hyper/table 18100004,90.7,90.7
+1997-04-01,(2002=100),Consumer Price Index,1998-04-01,table 18100004.hyper/table 18100004,90.6,90.6
+1997-05-01,(2002=100),Consumer Price Index,1998-05-01,table 18100004.hyper/table 18100004,90.7,90.7
+1997-06-01,(2002=100),Consumer Price Index,1998-06-01,table 18100004.hyper/table 18100004,90.6,90.6
+1997-07-01,(2002=100),Consumer Price Index,1998-07-01,table 18100004.hyper/table 18100004,90.7,90.7
+1997-08-01,(2002=100),Consumer Price Index,1998-08-01,table 18100004.hyper/table 18100004,90.8,90.8
+1997-09-01,(2002=100),Consumer Price Index,1998-09-01,table 18100004.hyper/table 18100004,90,90
+1997-10-01,(2002=100),Consumer Price Index,1998-10-01,table 18100004.hyper/table 18100004,90.9,90.9
+1997-11-01,(2002=100),Consumer Price Index,1998-11-01,table 18100004.hyper/table 18100004,90.9,90.9
+1997-12-01,(2002=100),Consumer Price Index,1998-12-01,table 18100004.hyper/table 18100004,90.6,90.6
+1998-01-01,(2002=100),Consumer Price Index,1999-01-01,table 18100004.hyper/table 18100004,90.5,90.5
+1998-02-01,(2002=100),Consumer Price Index,1999-02-01,table 18100004.hyper/table 18100004,91,91
+1998-03-01,(2002=100),Consumer Price Index,1999-03-01,table 18100004.hyper/table 18100004,90.9,90.9
+1998-04-01,(2002=100),Consumer Price Index,1999-04-01,table 18100004.hyper/table 18100004,91.8,91.8
+1998-05-01,(2002=100),Consumer Price Index,1999-05-01,table 18100004.hyper/table 18100004,91.9,91.9
+1998-06-01,(2002=100),Consumer Price Index,1999-06-01,table 18100004.hyper/table 18100004,92,92
+1998-07-01,(2002=100),Consumer Price Index,1999-07-01,table 18100004.hyper/table 18100004,92.1,92.1
+1998-08-01,(2002=100),Consumer Price Index,1999-08-01,table 18100004.hyper/table 18100004,92.8,92.8
+1998-09-01,(2002=100),Consumer Price Index,1999-09-01,table 18100004.hyper/table 18100004,93.2,93.2
+1998-10-01,(2002=100),Consumer Price Index,1999-10-01,table 18100004.hyper/table 18100004,93.3,93.3
+1998-11-01,(2002=100),Consumer Price Index,1999-11-01,table 18100004.hyper/table 18100004,93.5,93.5
+1998-12-01,(2002=100),Consumer Price Index,1999-12-01,table 18100004.hyper/table 18100004,93.4,93.4
+1999-01-01,(2002=100),Consumer Price Index,2000-01-01,table 18100004.hyper/table 18100004,93.4,93.4
+1999-02-01,(2002=100),Consumer Price Index,2000-02-01,table 18100004.hyper/table 18100004,94,94
+1999-03-01,(2002=100),Consumer Price Index,2000-03-01,table 18100004.hyper/table 18100004,94.5,94.5
+1999-04-01,(2002=100),Consumer Price Index,2000-04-01,table 18100004.hyper/table 18100004,94.3,94.3
+1999-05-01,(2002=100),Consumer Price Index,2000-05-01,table 18100004.hyper/table 18100004,94.7,94.7
+1999-06-01,(2002=100),Consumer Price Index,2000-06-01,table 18100004.hyper/table 18100004,95.2,95.2
+1999-07-01,(2002=100),Consumer Price Index,2000-07-01,table 18100004.hyper/table 18100004,95.1,95.1
+1999-08-01,(2002=100),Consumer Price Index,2000-08-01,table 18100004.hyper/table 18100004,95.1,95.1
+1999-09-01,(2002=100),Consumer Price Index,2000-09-01,table 18100004.hyper/table 18100004,95.8,95.8
+1999-10-01,(2002=100),Consumer Price Index,2000-10-01,table 18100004.hyper/table 18100004,96.1,96.1
+1999-11-01,(2002=100),Consumer Price Index,2000-11-01,table 18100004.hyper/table 18100004,96.7,96.7
+1983-02-01,(2002=100),Consumer Price Index,1984-02-01,table 18100004.hyper/table 18100004,60.7,60.7
+1983-03-01,(2002=100),Consumer Price Index,1984-03-01,table 18100004.hyper/table 18100004,60.7,60.7
+1983-04-01,(2002=100),Consumer Price Index,1984-04-01,table 18100004.hyper/table 18100004,61.1,61.1
+1983-05-01,(2002=100),Consumer Price Index,1984-05-01,table 18100004.hyper/table 18100004,61.2,61.2
+1983-06-01,(2002=100),Consumer Price Index,1984-06-01,table 18100004.hyper/table 18100004,61.4,61.4
+1983-07-01,(2002=100),Consumer Price Index,1984-07-01,table 18100004.hyper/table 18100004,61.9,61.9
+1983-08-01,(2002=100),Consumer Price Index,1984-08-01,table 18100004.hyper/table 18100004,62,62
+1983-09-01,(2002=100),Consumer Price Index,1984-09-01,table 18100004.hyper/table 18100004,62.1,62.1
+1983-10-01,(2002=100),Consumer Price Index,1984-10-01,table 18100004.hyper/table 18100004,62.2,62.2
+1983-11-01,(2002=100),Consumer Price Index,1984-11-01,table 18100004.hyper/table 18100004,62.7,62.7
+1983-12-01,(2002=100),Consumer Price Index,1984-12-01,table 18100004.hyper/table 18100004,62.7,62.7
+1984-01-01,(2002=100),Consumer Price Index,1985-01-01,table 18100004.hyper/table 18100004,63,63
+1984-02-01,(2002=100),Consumer Price Index,1985-02-01,table 18100004.hyper/table 18100004,63.4,63.4
+1984-03-01,(2002=100),Consumer Price Index,1985-03-01,table 18100004.hyper/table 18100004,63.8,63.8
+1984-04-01,(2002=100),Consumer Price Index,1985-04-01,table 18100004.hyper/table 18100004,63.9,63.9
+1984-05-01,(2002=100),Consumer Price Index,1985-05-01,table 18100004.hyper/table 18100004,64.3,64.3
+1984-06-01,(2002=100),Consumer Price Index,1985-06-01,table 18100004.hyper/table 18100004,64.4,64.4
+1984-07-01,(2002=100),Consumer Price Index,1985-07-01,table 18100004.hyper/table 18100004,64.7,64.7
+1984-08-01,(2002=100),Consumer Price Index,1985-08-01,table 18100004.hyper/table 18100004,64.8,64.8
+1984-09-01,(2002=100),Consumer Price Index,1985-09-01,table 18100004.hyper/table 18100004,64.8,64.8
+1984-10-01,(2002=100),Consumer Price Index,1985-10-01,table 18100004.hyper/table 18100004,64.9,64.9
+1984-11-01,(2002=100),Consumer Price Index,1985-11-01,table 18100004.hyper/table 18100004,64.9,64.9
+1984-12-01,(2002=100),Consumer Price Index,1985-12-01,table 18100004.hyper/table 18100004,65.3,65.3
+1985-01-01,(2002=100),Consumer Price Index,1986-01-01,table 18100004.hyper/table 18100004,65.5,65.5
+1985-02-01,(2002=100),Consumer Price Index,1986-02-01,table 18100004.hyper/table 18100004,65.9,65.9
+1985-03-01,(2002=100),Consumer Price Index,1986-03-01,table 18100004.hyper/table 18100004,65.9,65.9
+1985-04-01,(2002=100),Consumer Price Index,1986-04-01,table 18100004.hyper/table 18100004,66,66
+1985-05-01,(2002=100),Consumer Price Index,1986-05-01,table 18100004.hyper/table 18100004,66.5,66.5
+1985-06-01,(2002=100),Consumer Price Index,1986-06-01,table 18100004.hyper/table 18100004,66.3,66.3
+1985-07-01,(2002=100),Consumer Price Index,1986-07-01,table 18100004.hyper/table 18100004,66.7,66.7
+1985-08-01,(2002=100),Consumer Price Index,1986-08-01,table 18100004.hyper/table 18100004,66.8,66.8
+1985-09-01,(2002=100),Consumer Price Index,1986-09-01,table 18100004.hyper/table 18100004,66.7,66.7
+1985-10-01,(2002=100),Consumer Price Index,1986-10-01,table 18100004.hyper/table 18100004,67.2,67.2
+1985-11-01,(2002=100),Consumer Price Index,1986-11-01,table 18100004.hyper/table 18100004,67.5,67.5
+1985-12-01,(2002=100),Consumer Price Index,1986-12-01,table 18100004.hyper/table 18100004,67.8,67.8
+1986-01-01,(2002=100),Consumer Price Index,1987-01-01,table 18100004.hyper/table 18100004,68,68
+1986-02-01,(2002=100),Consumer Price Index,1987-02-01,table 18100004.hyper/table 18100004,68.4,68.4
+1986-03-01,(2002=100),Consumer Price Index,1987-03-01,table 18100004.hyper/table 18100004,68.5,68.5
+1986-04-01,(2002=100),Consumer Price Index,1987-04-01,table 18100004.hyper/table 18100004,68.5,68.5
+1986-05-01,(2002=100),Consumer Price Index,1987-05-01,table 18100004.hyper/table 18100004,68.6,68.6
+1986-06-01,(2002=100),Consumer Price Index,1987-06-01,table 18100004.hyper/table 18100004,68.5,68.5
+1986-07-01,(2002=100),Consumer Price Index,1987-07-01,table 18100004.hyper/table 18100004,69.1,69.1
+1986-08-01,(2002=100),Consumer Price Index,1987-08-01,table 18100004.hyper/table 18100004,69.1,69.1
+1986-09-01,(2002=100),Consumer Price Index,1987-09-01,table 18100004.hyper/table 18100004,69,69
+1986-10-01,(2002=100),Consumer Price Index,1987-10-01,table 18100004.hyper/table 18100004,69.2,69.2
+1986-11-01,(2002=100),Consumer Price Index,1987-11-01,table 18100004.hyper/table 18100004,70,70
+1986-12-01,(2002=100),Consumer Price Index,1987-12-01,table 18100004.hyper/table 18100004,70.1,70.1
+1987-01-01,(2002=100),Consumer Price Index,1988-01-01,table 18100004.hyper/table 18100004,70.1,70.1
+1987-02-01,(2002=100),Consumer Price Index,1988-02-01,table 18100004.hyper/table 18100004,70.5,70.5
+1987-03-01,(2002=100),Consumer Price Index,1988-03-01,table 18100004.hyper/table 18100004,70.8,70.8
+1987-04-01,(2002=100),Consumer Price Index,1988-04-01,table 18100004.hyper/table 18100004,71,71
+1987-05-01,(2002=100),Consumer Price Index,1988-05-01,table 18100004.hyper/table 18100004,70.9,70.9
+1987-06-01,(2002=100),Consumer Price Index,1988-06-01,table 18100004.hyper/table 18100004,71.1,71.1
+1987-07-01,(2002=100),Consumer Price Index,1988-07-01,table 18100004.hyper/table 18100004,71.8,71.8
+1987-08-01,(2002=100),Consumer Price Index,1988-08-01,table 18100004.hyper/table 18100004,72.2,72.2
+1987-09-01,(2002=100),Consumer Price Index,1988-09-01,table 18100004.hyper/table 18100004,71.7,71.7
+1987-10-01,(2002=100),Consumer Price Index,1988-10-01,table 18100004.hyper/table 18100004,72.2,72.2
+1987-11-01,(2002=100),Consumer Price Index,1988-11-01,table 18100004.hyper/table 18100004,72.7,72.7
+1987-12-01,(2002=100),Consumer Price Index,1988-12-01,table 18100004.hyper/table 18100004,72.5,72.5
+1988-01-01,(2002=100),Consumer Price Index,1989-01-01,table 18100004.hyper/table 18100004,72.9,72.9
+1988-02-01,(2002=100),Consumer Price Index,1989-02-01,table 18100004.hyper/table 18100004,73.2,73.2
+1988-03-01,(2002=100),Consumer Price Index,1989-03-01,table 18100004.hyper/table 18100004,73.3,73.3
+1988-04-01,(2002=100),Consumer Price Index,1989-04-01,table 18100004.hyper/table 18100004,73.8,73.8
+1988-05-01,(2002=100),Consumer Price Index,1989-05-01,table 18100004.hyper/table 18100004,74.8,74.8
+1988-06-01,(2002=100),Consumer Price Index,1989-06-01,table 18100004.hyper/table 18100004,75.1,75.1
+1988-07-01,(2002=100),Consumer Price Index,1989-07-01,table 18100004.hyper/table 18100004,75.7,75.7
+1988-08-01,(2002=100),Consumer Price Index,1989-08-01,table 18100004.hyper/table 18100004,75.7,75.7
+1988-09-01,(2002=100),Consumer Price Index,1989-09-01,table 18100004.hyper/table 18100004,75.6,75.6
+1988-10-01,(2002=100),Consumer Price Index,1989-10-01,table 18100004.hyper/table 18100004,75.8,75.8
+1988-11-01,(2002=100),Consumer Price Index,1989-11-01,table 18100004.hyper/table 18100004,76.2,76.2
+1988-12-01,(2002=100),Consumer Price Index,1989-12-01,table 18100004.hyper/table 18100004,76.4,76.4
+1989-01-01,(2002=100),Consumer Price Index,1990-01-01,table 18100004.hyper/table 18100004,76.6,76.6
+1989-02-01,(2002=100),Consumer Price Index,1990-02-01,table 18100004.hyper/table 18100004,77.4,77.4
+1989-03-01,(2002=100),Consumer Price Index,1990-03-01,table 18100004.hyper/table 18100004,77.8,77.8
+1989-04-01,(2002=100),Consumer Price Index,1990-04-01,table 18100004.hyper/table 18100004,77.8,77.8
+1989-05-01,(2002=100),Consumer Price Index,1990-05-01,table 18100004.hyper/table 18100004,78.2,78.2
+1989-06-01,(2002=100),Consumer Price Index,1990-06-01,table 18100004.hyper/table 18100004,78.4,78.4
+1989-07-01,(2002=100),Consumer Price Index,1990-07-01,table 18100004.hyper/table 18100004,78.9,78.9
+1989-08-01,(2002=100),Consumer Price Index,1990-08-01,table 18100004.hyper/table 18100004,79,79
+1989-09-01,(2002=100),Consumer Price Index,1990-09-01,table 18100004.hyper/table 18100004,79.2,79.2
+1989-10-01,(2002=100),Consumer Price Index,1990-10-01,table 18100004.hyper/table 18100004,79.5,79.5
+1989-11-01,(2002=100),Consumer Price Index,1990-11-01,table 18100004.hyper/table 18100004,80.3,80.3
+1989-12-01,(2002=100),Consumer Price Index,1990-12-01,table 18100004.hyper/table 18100004,81,81
+1990-01-01,(2002=100),Consumer Price Index,1991-01-01,table 18100004.hyper/table 18100004,83.1,83.1
+1990-02-01,(2002=100),Consumer Price Index,1991-02-01,table 18100004.hyper/table 18100004,83.2,83.2
+1990-03-01,(2002=100),Consumer Price Index,1991-03-01,table 18100004.hyper/table 18100004,83.5,83.5
+1990-04-01,(2002=100),Consumer Price Index,1991-04-01,table 18100004.hyper/table 18100004,83.1,83.1
+1990-05-01,(2002=100),Consumer Price Index,1991-05-01,table 18100004.hyper/table 18100004,83.2,83.2
+1990-06-01,(2002=100),Consumer Price Index,1991-06-01,table 18100004.hyper/table 18100004,83.2,83.2
+1990-07-01,(2002=100),Consumer Price Index,1991-07-01,table 18100004.hyper/table 18100004,83.2,83.2
+1990-08-01,(2002=100),Consumer Price Index,1991-08-01,table 18100004.hyper/table 18100004,83.1,83.1
+1990-09-01,(2002=100),Consumer Price Index,1991-09-01,table 18100004.hyper/table 18100004,83.3,83.3
+1990-10-01,(2002=100),Consumer Price Index,1991-10-01,table 18100004.hyper/table 18100004,83.3,83.3
+1990-11-01,(2002=100),Consumer Price Index,1991-11-01,table 18100004.hyper/table 18100004,83.8,83.8
+1990-12-01,(2002=100),Consumer Price Index,1991-12-01,table 18100004.hyper/table 18100004,83.3,83.3
+1991-01-01,(2002=100),Consumer Price Index,1992-01-01,table 18100004.hyper/table 18100004,83.3,83.3
+1991-02-01,(2002=100),Consumer Price Index,1992-02-01,table 18100004.hyper/table 18100004,83.7,83.7
+1991-03-01,(2002=100),Consumer Price Index,1992-03-01,table 18100004.hyper/table 18100004,84.2,84.2
+1991-04-01,(2002=100),Consumer Price Index,1992-04-01,table 18100004.hyper/table 18100004,84.3,84.3
+1991-05-01,(2002=100),Consumer Price Index,1992-05-01,table 18100004.hyper/table 18100004,84.1,84.1
+1991-06-01,(2002=100),Consumer Price Index,1992-06-01,table 18100004.hyper/table 18100004,84.2,84.2
+1991-07-01,(2002=100),Consumer Price Index,1992-07-01,table 18100004.hyper/table 18100004,84.2,84.2
+1991-08-01,(2002=100),Consumer Price Index,1992-08-01,table 18100004.hyper/table 18100004,84.1,84.1
+1991-09-01,(2002=100),Consumer Price Index,1992-09-01,table 18100004.hyper/table 18100004,83.9,83.9
+1991-10-01,(2002=100),Consumer Price Index,1992-10-01,table 18100004.hyper/table 18100004,83.8,83.8
+1991-11-01,(2002=100),Consumer Price Index,1992-11-01,table 18100004.hyper/table 18100004,84.4,84.4
+1991-12-01,(2002=100),Consumer Price Index,1992-12-01,table 18100004.hyper/table 18100004,83.8,83.8
+1992-01-01,(2002=100),Consumer Price Index,1993-01-01,table 18100004.hyper/table 18100004,83.8,83.8
+1992-02-01,(2002=100),Consumer Price Index,1993-02-01,table 18100004.hyper/table 18100004,84.1,84.1
+1992-03-01,(2002=100),Consumer Price Index,1993-03-01,table 18100004.hyper/table 18100004,84.2,84.2
+1992-04-01,(2002=100),Consumer Price Index,1993-04-01,table 18100004.hyper/table 18100004,84.3,84.3
+1992-05-01,(2002=100),Consumer Price Index,1993-05-01,table 18100004.hyper/table 18100004,84.5,84.5
+1992-06-01,(2002=100),Consumer Price Index,1993-06-01,table 18100004.hyper/table 18100004,84.7,84.7
+1992-07-01,(2002=100),Consumer Price Index,1993-07-01,table 18100004.hyper/table 18100004,84.8,84.8
+1992-08-01,(2002=100),Consumer Price Index,1993-08-01,table 18100004.hyper/table 18100004,84.8,84.8
+1992-09-01,(2002=100),Consumer Price Index,1993-09-01,table 18100004.hyper/table 18100004,84.8,84.8
+1992-10-01,(2002=100),Consumer Price Index,1993-10-01,table 18100004.hyper/table 18100004,85.6,85.6
+1992-11-01,(2002=100),Consumer Price Index,1993-11-01,table 18100004.hyper/table 18100004,86.1,86.1
+1992-12-01,(2002=100),Consumer Price Index,1993-12-01,table 18100004.hyper/table 18100004,86,86
+1993-01-01,(2002=100),Consumer Price Index,1994-01-01,table 18100004.hyper/table 18100004,86.1,86.1
+1993-02-01,(2002=100),Consumer Price Index,1994-02-01,table 18100004.hyper/table 18100004,85.8,85.8
+1993-03-01,(2002=100),Consumer Price Index,1994-03-01,table 18100004.hyper/table 18100004,85.8,85.8
+1993-04-01,(2002=100),Consumer Price Index,1994-04-01,table 18100004.hyper/table 18100004,85.3,85.3
+1993-05-01,(2002=100),Consumer Price Index,1994-05-01,table 18100004.hyper/table 18100004,85.3,85.3
+1993-06-01,(2002=100),Consumer Price Index,1994-06-01,table 18100004.hyper/table 18100004,85.3,85.3
+1993-07-01,(2002=100),Consumer Price Index,1994-07-01,table 18100004.hyper/table 18100004,85.8,85.8
+1993-08-01,(2002=100),Consumer Price Index,1994-08-01,table 18100004.hyper/table 18100004,86,86
+1993-09-01,(2002=100),Consumer Price Index,1994-09-01,table 18100004.hyper/table 18100004,85.8,85.8
+1993-10-01,(2002=100),Consumer Price Index,1994-10-01,table 18100004.hyper/table 18100004,85.8,85.8
+1993-11-01,(2002=100),Consumer Price Index,1994-11-01,table 18100004.hyper/table 18100004,86.1,86.1
+1993-12-01,(2002=100),Consumer Price Index,1994-12-01,table 18100004.hyper/table 18100004,85.8,85.8
+1994-01-01,(2002=100),Consumer Price Index,1995-01-01,table 18100004.hyper/table 18100004,86,86
+1994-02-01,(2002=100),Consumer Price Index,1995-02-01,table 18100004.hyper/table 18100004,86.4,86.4
+1994-03-01,(2002=100),Consumer Price Index,1995-03-01,table 18100004.hyper/table 18100004,86.7,86.7
+1994-04-01,(2002=100),Consumer Price Index,1995-04-01,table 18100004.hyper/table 18100004,86.8,86.8
+1994-05-01,(2002=100),Consumer Price Index,1995-05-01,table 18100004.hyper/table 18100004,87.3,87.3
+1994-06-01,(2002=100),Consumer Price Index,1995-06-01,table 18100004.hyper/table 18100004,87,87
+1999-12-01,(2002=100),Consumer Price Index,2000-12-01,table 18100004.hyper/table 18100004,96.4,96.4
+2000-01-01,(2002=100),Consumer Price Index,2001-01-01,table 18100004.hyper/table 18100004,96,96
+2000-02-01,(2002=100),Consumer Price Index,2001-02-01,table 18100004.hyper/table 18100004,96.2,96.2
+2000-03-01,(2002=100),Consumer Price Index,2001-03-01,table 18100004.hyper/table 18100004,96.4,96.4
+2000-04-01,(2002=100),Consumer Price Index,2001-04-01,table 18100004.hyper/table 18100004,97.1,97.1
+2000-05-01,(2002=100),Consumer Price Index,2001-05-01,table 18100004.hyper/table 18100004,97.5,97.5
+2000-06-01,(2002=100),Consumer Price Index,2001-06-01,table 18100004.hyper/table 18100004,97.6,97.6
+2000-07-01,(2002=100),Consumer Price Index,2001-07-01,table 18100004.hyper/table 18100004,97.3,97.3
+2000-08-01,(2002=100),Consumer Price Index,2001-08-01,table 18100004.hyper/table 18100004,97.2,97.2
+2000-09-01,(2002=100),Consumer Price Index,2001-09-01,table 18100004.hyper/table 18100004,97.7,97.7
+2000-10-01,(2002=100),Consumer Price Index,2001-10-01,table 18100004.hyper/table 18100004,97.2,97.2
+2000-11-01,(2002=100),Consumer Price Index,2001-11-01,table 18100004.hyper/table 18100004,97,97
+2000-12-01,(2002=100),Consumer Price Index,2001-12-01,table 18100004.hyper/table 18100004,96.8,96.8
+2001-01-01,(2002=100),Consumer Price Index,2002-01-01,table 18100004.hyper/table 18100004,96.9,96.9
+2001-02-01,(2002=100),Consumer Price Index,2002-02-01,table 18100004.hyper/table 18100004,97.4,97.4
+2001-03-01,(2002=100),Consumer Price Index,2002-03-01,table 18100004.hyper/table 18100004,97.9,97.9
+2001-04-01,(2002=100),Consumer Price Index,2002-04-01,table 18100004.hyper/table 18100004,99.3,99.3
+2001-05-01,(2002=100),Consumer Price Index,2002-05-01,table 18100004.hyper/table 18100004,100.3,100.3
+2001-06-01,(2002=100),Consumer Price Index,2002-06-01,table 18100004.hyper/table 18100004,100.3,100.3
+2001-07-01,(2002=100),Consumer Price Index,2002-07-01,table 18100004.hyper/table 18100004,100.9,100.9
+2001-08-01,(2002=100),Consumer Price Index,2002-08-01,table 18100004.hyper/table 18100004,100.8,100.8
+2001-09-01,(2002=100),Consumer Price Index,2002-09-01,table 18100004.hyper/table 18100004,101.1,101.1
+2001-10-01,(2002=100),Consumer Price Index,2002-10-01,table 18100004.hyper/table 18100004,101.7,101.7
+2001-11-01,(2002=100),Consumer Price Index,2002-11-01,table 18100004.hyper/table 18100004,102.1,102.1
+2001-12-01,(2002=100),Consumer Price Index,2002-12-01,table 18100004.hyper/table 18100004,101.4,101.4
+2002-01-01,(2002=100),Consumer Price Index,2003-01-01,table 18100004.hyper/table 18100004,102.5,102.5
+2002-02-01,(2002=100),Consumer Price Index,2003-02-01,table 18100004.hyper/table 18100004,103.3,103.3
+2002-03-01,(2002=100),Consumer Price Index,2003-03-01,table 18100004.hyper/table 18100004,104,104
+2002-04-01,(2002=100),Consumer Price Index,2003-04-01,table 18100004.hyper/table 18100004,103.2,103.2
+2002-05-01,(2002=100),Consumer Price Index,2003-05-01,table 18100004.hyper/table 18100004,103,103
+2002-06-01,(2002=100),Consumer Price Index,2003-06-01,table 18100004.hyper/table 18100004,103,103
+2002-07-01,(2002=100),Consumer Price Index,2003-07-01,table 18100004.hyper/table 18100004,103.3,103.3
+2002-08-01,(2002=100),Consumer Price Index,2003-08-01,table 18100004.hyper/table 18100004,103.4,103.4
+2002-09-01,(2002=100),Consumer Price Index,2003-09-01,table 18100004.hyper/table 18100004,103.4,103.4
+2002-10-01,(2002=100),Consumer Price Index,2003-10-01,table 18100004.hyper/table 18100004,103.1,103.1
+2002-11-01,(2002=100),Consumer Price Index,2003-11-01,table 18100004.hyper/table 18100004,103.3,103.3
+2002-12-01,(2002=100),Consumer Price Index,2003-12-01,table 18100004.hyper/table 18100004,103.1,103.1
+2003-01-01,(2002=100),Consumer Price Index,2004-01-01,table 18100004.hyper/table 18100004,103.1,103.1
+2003-02-01,(2002=100),Consumer Price Index,2004-02-01,table 18100004.hyper/table 18100004,103.5,103.5
+2003-03-01,(2002=100),Consumer Price Index,2004-03-01,table 18100004.hyper/table 18100004,104.2,104.2
+2003-04-01,(2002=100),Consumer Price Index,2004-04-01,table 18100004.hyper/table 18100004,104.2,104.2
+2003-05-01,(2002=100),Consumer Price Index,2004-05-01,table 18100004.hyper/table 18100004,105,105
+2003-06-01,(2002=100),Consumer Price Index,2004-06-01,table 18100004.hyper/table 18100004,105.3,105.3
+2003-07-01,(2002=100),Consumer Price Index,2004-07-01,table 18100004.hyper/table 18100004,105.5,105.5
+2003-08-01,(2002=100),Consumer Price Index,2004-08-01,table 18100004.hyper/table 18100004,105.5,105.5
+2003-09-01,(2002=100),Consumer Price Index,2004-09-01,table 18100004.hyper/table 18100004,105.6,105.6
+2003-10-01,(2002=100),Consumer Price Index,2004-10-01,table 18100004.hyper/table 18100004,105.9,105.9
+2003-11-01,(2002=100),Consumer Price Index,2004-11-01,table 18100004.hyper/table 18100004,106.4,106.4
+2003-12-01,(2002=100),Consumer Price Index,2004-12-01,table 18100004.hyper/table 18100004,106,106
+2004-01-01,(2002=100),Consumer Price Index,2005-01-01,table 18100004.hyper/table 18100004,105.7,105.7
+2004-02-01,(2002=100),Consumer Price Index,2005-02-01,table 18100004.hyper/table 18100004,105.9,105.9
+2004-03-01,(2002=100),Consumer Price Index,2005-03-01,table 18100004.hyper/table 18100004,106.6,106.6
+2004-04-01,(2002=100),Consumer Price Index,2005-04-01,table 18100004.hyper/table 18100004,107,107
+2004-05-01,(2002=100),Consumer Price Index,2005-05-01,table 18100004.hyper/table 18100004,107.2,107.2
+2004-06-01,(2002=100),Consumer Price Index,2005-06-01,table 18100004.hyper/table 18100004,107.1,107.1
+2004-07-01,(2002=100),Consumer Price Index,2005-07-01,table 18100004.hyper/table 18100004,107.4,107.4
+2004-08-01,(2002=100),Consumer Price Index,2005-08-01,table 18100004.hyper/table 18100004,108.2,108.2
+2004-09-01,(2002=100),Consumer Price Index,2005-09-01,table 18100004.hyper/table 18100004,109.6,109.6
+2004-10-01,(2002=100),Consumer Price Index,2005-10-01,table 18100004.hyper/table 18100004,109.1,109.1
+2004-11-01,(2002=100),Consumer Price Index,2005-11-01,table 18100004.hyper/table 18100004,108.5,108.5
+2004-12-01,(2002=100),Consumer Price Index,2005-12-01,table 18100004.hyper/table 18100004,108.6,108.6
+2005-01-01,(2002=100),Consumer Price Index,2006-01-01,table 18100004.hyper/table 18100004,108.6,108.6
+2005-02-01,(2002=100),Consumer Price Index,2006-02-01,table 18100004.hyper/table 18100004,108.3,108.3
+2005-03-01,(2002=100),Consumer Price Index,2006-03-01,table 18100004.hyper/table 18100004,108.9,108.9
+2005-04-01,(2002=100),Consumer Price Index,2006-04-01,table 18100004.hyper/table 18100004,110.2,110.2
+2016-01-01,(2002=100),Consumer Price Index,2017-01-01,table 18100004.hyper/table 18100004,130.5,130.5
+2016-02-01,(2002=100),Consumer Price Index,2017-02-01,table 18100004.hyper/table 18100004,130.3,130.3
+2016-03-01,(2002=100),Consumer Price Index,2017-03-01,table 18100004.hyper/table 18100004,130.7,130.7
+2016-04-01,(2002=100),Consumer Price Index,2017-04-01,table 18100004.hyper/table 18100004,130.9,130.9
+2016-05-01,(2002=100),Consumer Price Index,2017-05-01,table 18100004.hyper/table 18100004,131.1,131.1
+2016-06-01,(2002=100),Consumer Price Index,2017-06-01,table 18100004.hyper/table 18100004,131.2,131.2
+2016-07-01,(2002=100),Consumer Price Index,2017-07-01,table 18100004.hyper/table 18100004,131.3,131.3
+2016-08-01,(2002=100),Consumer Price Index,2017-08-01,table 18100004.hyper/table 18100004,131.4,131.4
+2016-09-01,(2002=100),Consumer Price Index,2017-09-01,table 18100004.hyper/table 18100004,132.2,132.2
+2016-10-01,(2002=100),Consumer Price Index,2017-10-01,table 18100004.hyper/table 18100004,131.6,131.6
+2016-11-01,(2002=100),Consumer Price Index,2017-11-01,table 18100004.hyper/table 18100004,132,132
+2016-12-01,(2002=100),Consumer Price Index,2017-12-01,table 18100004.hyper/table 18100004,131.5,131.5
+2017-01-01,(2002=100),Consumer Price Index,2018-01-01,table 18100004.hyper/table 18100004,132.2,132.2
+2017-02-01,(2002=100),Consumer Price Index,2018-02-01,table 18100004.hyper/table 18100004,133.1,133.1
+2017-03-01,(2002=100),Consumer Price Index,2018-03-01,table 18100004.hyper/table 18100004,133.8,133.8
+2017-04-01,(2002=100),Consumer Price Index,2018-04-01,table 18100004.hyper/table 18100004,134.4,134.4
+2017-05-01,(2002=100),Consumer Price Index,2018-05-01,table 18100004.hyper/table 18100004,133.9,133.9
+2017-06-01,(2002=100),Consumer Price Index,2018-06-01,table 18100004.hyper/table 18100004,133.9,133.9
+2017-07-01,(2002=100),Consumer Price Index,2018-07-01,table 18100004.hyper/table 18100004,134.6,134.6
+2017-08-01,(2002=100),Consumer Price Index,2018-08-01,table 18100004.hyper/table 18100004,134.9,134.9
+2017-09-01,(2002=100),Consumer Price Index,2018-09-01,table 18100004.hyper/table 18100004,134.2,134.2
+2017-10-01,(2002=100),Consumer Price Index,2018-10-01,table 18100004.hyper/table 18100004,135.2,135.2
+2017-11-01,(2002=100),Consumer Price Index,2018-11-01,table 18100004.hyper/table 18100004,134.3,134.3
+2017-12-01,(2002=100),Consumer Price Index,2018-12-01,table 18100004.hyper/table 18100004,133.5,133.5
+2018-01-01,(2002=100),Consumer Price Index,2019-01-01,table 18100004.hyper/table 18100004,133.5,133.5
+2018-02-01,(2002=100),Consumer Price Index,2019-02-01,table 18100004.hyper/table 18100004,134.5,134.5
+2018-03-01,(2002=100),Consumer Price Index,2019-03-01,table 18100004.hyper/table 18100004,135.5,135.5
+2018-04-01,(2002=100),Consumer Price Index,2019-04-01,table 18100004.hyper/table 18100004,135.9,135.9
+2018-05-01,(2002=100),Consumer Price Index,2019-05-01,table 18100004.hyper/table 18100004,136.3,136.3
+2018-06-01,(2002=100),Consumer Price Index,2019-06-01,table 18100004.hyper/table 18100004,136,136
+2018-07-01,(2002=100),Consumer Price Index,2019-07-01,table 18100004.hyper/table 18100004,137,137
+2018-08-01,(2002=100),Consumer Price Index,2019-08-01,table 18100004.hyper/table 18100004,136.9,136.9
+2018-09-01,(2002=100),Consumer Price Index,2019-09-01,table 18100004.hyper/table 18100004,137.1,137.1
+2018-10-01,(2002=100),Consumer Price Index,2019-10-01,table 18100004.hyper/table 18100004,136.5,136.5
+2018-11-01,(2002=100),Consumer Price Index,2019-11-01,table 18100004.hyper/table 18100004,136.9,136.9
+2018-12-01,(2002=100),Consumer Price Index,2019-12-01,table 18100004.hyper/table 18100004,136.4,136.4
+2019-01-01,(2002=100),Consumer Price Index,2020-01-01,table 18100004.hyper/table 18100004,137.1,137.1
+2019-02-01,(2002=100),Consumer Price Index,2020-02-01,table 18100004.hyper/table 18100004,137.7,137.7
+2019-03-01,(2002=100),Consumer Price Index,2020-03-01,table 18100004.hyper/table 18100004,136.8,136.8
+2019-04-01,(2002=100),Consumer Price Index,2020-04-01,table 18100004.hyper/table 18100004,135.5,135.5
+2019-05-01,(2002=100),Consumer Price Index,2020-05-01,table 18100004.hyper/table 18100004,135.4,135.4
+2019-06-01,(2002=100),Consumer Price Index,2020-06-01,table 18100004.hyper/table 18100004,136.5,136.5
+2019-07-01,(2002=100),Consumer Price Index,2020-07-01,table 18100004.hyper/table 18100004,136.5,136.5
+2019-08-01,(2002=100),Consumer Price Index,2020-08-01,table 18100004.hyper/table 18100004,136.3,136.3
+2019-09-01,(2002=100),Consumer Price Index,2020-09-01,table 18100004.hyper/table 18100004,136.4,136.4
+2019-10-01,(2002=100),Consumer Price Index,2020-10-01,table 18100004.hyper/table 18100004,137.3,137.3
+2019-11-01,(2002=100),Consumer Price Index,2020-11-01,table 18100004.hyper/table 18100004,137.7,137.7
+2019-12-01,(2002=100),Consumer Price Index,2020-12-01,table 18100004.hyper/table 18100004,137.6,137.6
+2020-01-01,(2002=100),Consumer Price Index,2021-01-01,table 18100004.hyper/table 18100004,139,139
+2020-02-01,(2002=100),Consumer Price Index,2021-02-01,table 18100004.hyper/table 18100004,139.6,139.6
+2020-03-01,(2002=100),Consumer Price Index,2021-03-01,table 18100004.hyper/table 18100004,140.4,140.4
+2020-04-01,(2002=100),Consumer Price Index,2021-04-01,table 18100004.hyper/table 18100004,141,141
+2020-05-01,(2002=100),Consumer Price Index,2021-05-01,table 18100004.hyper/table 18100004,141.6,141.6
+2020-06-01,(2002=100),Consumer Price Index,2021-06-01,table 18100004.hyper/table 18100004,141.5,141.5
+2020-07-01,(2002=100),Consumer Price Index,2021-07-01,table 18100004.hyper/table 18100004,142.6,142.6
+2020-08-01,(2002=100),Consumer Price Index,2021-08-01,table 18100004.hyper/table 18100004,142.9,142.9
+2020-09-01,(2002=100),Consumer Price Index,2021-09-01,table 18100004.hyper/table 18100004,143,143
+2020-10-01,(2002=100),Consumer Price Index,2021-10-01,table 18100004.hyper/table 18100004,144.1,144.1
+2020-11-01,(2002=100),Consumer Price Index,2021-11-01,table 18100004.hyper/table 18100004,144.3,144.3
+2020-12-01,(2002=100),Consumer Price Index,2021-12-01,table 18100004.hyper/table 18100004,143.7,143.7
+2021-01-01,(2002=100),Consumer Price Index,2022-01-01,table 18100004.hyper/table 18100004,145.6,145.6
+2021-02-01,(2002=100),Consumer Price Index,2022-02-01,table 18100004.hyper/table 18100004,147.1,147.1
+2021-03-01,(2002=100),Consumer Price Index,2022-03-01,table 18100004.hyper/table 18100004,149.7,149.7

@@ -1,0 +1,145 @@
+﻿_af,Date,Forecast,GDP Year,Geography,Outlook Release Date,cForecast,GDP
+,2016-01-01,Actual,2016,Halifax,2019-11-01,,2
+,2016-01-01,Actual,2016,Nova Scotia,2019-11-01,,1.5
+,2016-01-01,Actual,2016,Canada,2019-11-01,,1.1
+,2017-01-01,Actual,2017,Halifax,2019-11-01,,1.9
+,2017-01-01,Actual,2017,Nova Scotia,2019-11-01,,1.5
+,2017-01-01,Actual,2017,Canada,2019-11-01,,3
+,2018-01-01,Actual,2018,Halifax,2019-11-01,,1.6
+,2018-01-01,Actual,2018,Nova Scotia,2019-11-01,,1.2
+,2018-01-01,Actual,2018,Canada,2019-11-01,,1.9
+F,2019-01-01,Forecasted,2019,Halifax,2019-11-01,2.6,2.6
+F,2019-01-01,Forecasted,2019,Nova Scotia,2019-11-01,2.1,2.1
+F,2019-01-01,Forecasted,2019,Canada,2019-11-01,1.4,1.4
+F,2020-01-01,Forecasted,2020,Halifax,2019-11-01,2.1,2.1
+F,2020-01-01,Forecasted,2020,Nova Scotia,2019-11-01,1.2,1.2
+F,2020-01-01,Forecasted,2020,Canada,2019-11-01,1.8,1.8
+F,2021-01-01,Forecasted,2021,Halifax,2019-11-01,2.4,2.4
+F,2021-01-01,Forecasted,2021,Nova Scotia,2019-11-01,2,2
+F,2021-01-01,Forecasted,2021,Canada,2019-11-01,1.8,1.8
+F,2022-01-01,Forecasted,2022,Halifax,2019-11-01,2.1,2.1
+F,2022-01-01,Forecasted,2022,Nova Scotia,2019-11-01,1.5,1.5
+F,2022-01-01,Forecasted,2022,Canada,2019-11-01,1.6,1.6
+F,2023-01-01,Forecasted,2023,Halifax,2019-11-01,1.8,1.8
+F,2023-01-01,Forecasted,2023,Nova Scotia,2019-11-01,0.9,0.9
+F,2023-01-01,Forecasted,2023,Canada,2019-11-01,1.7,1.7
+,2017-01-01,Actual,2017,Halifax,2020-03-01,,1.9
+,2017-01-01,Actual,2017,Nova Scotia,2020-03-01,,1.5
+,2017-01-01,Actual,2017,Canada,2020-03-01,,3
+,2018-01-01,Actual,2018,Halifax,2020-03-01,,1.6
+,2018-01-01,Actual,2018,Nova Scotia,2020-03-01,,1.2
+,2018-01-01,Actual,2018,Canada,2020-03-01,,1.9
+,2019-01-01,Actual,2019,Halifax,2020-03-01,,2.6
+,2019-01-01,Actual,2019,Nova Scotia,2020-03-01,,1.9
+,2019-01-01,Actual,2019,Canada,2020-03-01,,1.6
+F,2020-01-01,Forecasted,2020,Halifax,2020-03-01,1.9,1.9
+F,2020-01-01,Forecasted,2020,Nova Scotia,2020-03-01,0.9,0.9
+F,2020-01-01,Forecasted,2020,Canada,2020-03-01,1.8,1.8
+F,2021-01-01,Forecasted,2021,Halifax,2020-03-01,2.5,2.5
+F,2021-01-01,Forecasted,2021,Nova Scotia,2020-03-01,2.1,2.1
+F,2021-01-01,Forecasted,2021,Canada,2020-03-01,1.9,1.9
+F,2022-01-01,Forecasted,2022,Halifax,2020-03-01,2.2,2.2
+F,2022-01-01,Forecasted,2022,Nova Scotia,2020-03-01,1.6,1.6
+F,2022-01-01,Forecasted,2022,Canada,2020-03-01,1.7,1.7
+F,2023-01-01,Forecasted,2023,Halifax,2020-03-01,2,2
+F,2023-01-01,Forecasted,2023,Nova Scotia,2020-03-01,1,1
+F,2023-01-01,Forecasted,2023,Canada,2020-03-01,1.6,1.6
+F,2024-01-01,Forecasted,2024,Halifax,2020-03-01,1.9,1.9
+F,2024-01-01,Forecasted,2024,Nova Scotia,2020-03-01,1,1
+F,2024-01-01,Forecasted,2024,Canada,2020-03-01,1.5,1.5
+,2018-01-01,Actual,2018,Halifax,2021-03-01,,1.6
+,2018-01-01,Actual,2018,Nova Scotia,2021-03-01,,1.2
+,2018-01-01,Actual,2018,Canada,2021-03-01,,1.9
+,2019-01-01,Actual,2019,Halifax,2021-03-01,,3.2
+,2019-01-01,Actual,2019,Nova Scotia,2021-03-01,,2.1
+,2019-01-01,Actual,2019,Canada,2021-03-01,,1.9
+,2020-01-01,Actual,2020,Halifax,2021-03-01,,-3.4
+,2020-01-01,Actual,2020,Nova Scotia,2021-03-01,,-4.7
+,2020-01-01,Actual,2020,Canada,2021-03-01,,-5.3
+F,2021-01-01,Forecasted,2021,Halifax,2021-03-01,4.6,4.6
+F,2021-01-01,Forecasted,2021,Nova Scotia,2021-03-01,4.3,4.3
+F,2021-01-01,Forecasted,2021,Canada,2021-03-01,5.3,5.3
+F,2022-01-01,Forecasted,2022,Halifax,2021-03-01,3.9,3.9
+F,2022-01-01,Forecasted,2022,Nova Scotia,2021-03-01,3.7,3.7
+F,2022-01-01,Forecasted,2022,Canada,2021-03-01,3.5,3.5
+F,2023-01-01,Forecasted,2023,Halifax,2021-03-01,1.7,1.7
+F,2023-01-01,Forecasted,2023,Nova Scotia,2021-03-01,1.3,1.3
+F,2023-01-01,Forecasted,2023,Canada,2021-03-01,1.2,1.2
+F,2024-01-01,Forecasted,2024,Halifax,2021-03-01,1.1,1.1
+F,2024-01-01,Forecasted,2024,Nova Scotia,2021-03-01,0.8,0.8
+F,2024-01-01,Forecasted,2024,Canada,2021-03-01,1.7,1.7
+F,2025-01-01,Forecasted,2025,Halifax,2021-03-01,1.3,1.3
+F,2025-01-01,Forecasted,2025,Nova Scotia,2021-03-01,0.8,0.8
+F,2025-01-01,Forecasted,2025,Canada,2021-03-01,1.9,1.9
+,2018-01-01,Actual,2018,Halifax,2021-10-01,,1.6
+,2018-01-01,Actual,2018,Nova Scotia,2021-10-01,,1.2
+,2018-01-01,Actual,2018,Canada,2021-10-01,,1.9
+,2019-01-01,Actual,2019,Halifax,2021-10-01,,3.6
+,2019-01-01,Actual,2019,Nova Scotia,2021-10-01,,2.1
+,2019-01-01,Actual,2019,Canada,2021-10-01,,1.9
+,2020-01-01,Actual,2020,Halifax,2021-10-01,,-1.8
+,2020-01-01,Actual,2020,Nova Scotia,2021-10-01,,-4.7
+,2020-01-01,Actual,2020,Canada,2021-10-01,,-5.3
+F,2021-01-01,Forecasted,2021,Halifax,2021-10-01,5.7,5.7
+F,2021-01-01,Forecasted,2021,Nova Scotia,2021-10-01,4.3,4.3
+F,2021-01-01,Forecasted,2021,Canada,2021-10-01,5.3,5.3
+F,2022-01-01,Forecasted,2022,Halifax,2021-10-01,3.5,3.5
+F,2022-01-01,Forecasted,2022,Nova Scotia,2021-10-01,3.7,3.7
+F,2022-01-01,Forecasted,2022,Canada,2021-10-01,3.5,3.5
+F,2023-01-01,Forecasted,2023,Halifax,2021-10-01,1.7,1.7
+F,2023-01-01,Forecasted,2023,Nova Scotia,2021-10-01,1.3,1.3
+F,2023-01-01,Forecasted,2023,Canada,2021-10-01,1.2,1.2
+F,2024-01-01,Forecasted,2024,Halifax,2021-10-01,1.6,1.6
+F,2024-01-01,Forecasted,2024,Nova Scotia,2021-10-01,0.8,0.8
+F,2024-01-01,Forecasted,2024,Canada,2021-10-01,1.7,1.7
+F,2025-01-01,Forecasted,2025,Halifax,2021-10-01,1.6,1.6
+F,2025-01-01,Forecasted,2025,Nova Scotia,2021-10-01,0.8,0.8
+F,2025-01-01,Forecasted,2025,Canada,2021-10-01,1.9,1.9
+,2019-01-01,Actual,2019,Halifax,2022-03-01,,3.6
+,2019-01-01,Actual,2019,Nova Scotia,2022-03-01,,2.1
+,2019-01-01,Actual,2019,Canada,2022-03-01,,1.9
+,2020-01-01,Actual,2020,Halifax,2022-03-01,,-2.1
+,2020-01-01,Actual,2020,Nova Scotia,2022-03-01,,-3.2
+,2020-01-01,Actual,2020,Canada,2022-03-01,,-5.2
+,2021-01-01,Actual,2021,Halifax,2022-03-01,,6
+,2021-01-01,Actual,2021,Nova Scotia,2022-03-01,,5.3
+,2021-01-01,Actual,2021,Canada,2022-03-01,,4.5
+,2022-01-01,Actual,2022,Halifax,2022-03-01,,2.6
+,2022-01-01,Actual,2022,Nova Scotia,2022-03-01,,2.3
+,2022-01-01,Actual,2022,Canada,2022-03-01,,3.9
+F,2023-01-01,Forecasted,2023,Halifax,2022-03-01,1.6,1.6
+F,2023-01-01,Forecasted,2023,Nova Scotia,2022-03-01,1,1
+F,2023-01-01,Forecasted,2023,Canada,2022-03-01,3.3,3.3
+F,2024-01-01,Forecasted,2024,Halifax,2022-03-01,1.7,1.7
+F,2024-01-01,Forecasted,2024,Nova Scotia,2022-03-01,1.1,1.1
+F,2024-01-01,Forecasted,2024,Canada,2022-03-01,1.3,1.3
+F,2025-01-01,Forecasted,2025,Halifax,2022-03-01,1.7,1.7
+F,2025-01-01,Forecasted,2025,Nova Scotia,2022-03-01,1.3,1.3
+F,2025-01-01,Forecasted,2025,Canada,2022-03-01,1.5,1.5
+F,2026-01-01,Forecasted,2026,Halifax,2022-03-01,1.6,1.6
+F,2026-01-01,Forecasted,2026,Nova Scotia,2022-03-01,1.2,1.2
+F,2026-01-01,Forecasted,2026,Canada,2022-03-01,1.6,1.6
+,2019-01-01,Actual,2019,Halifax,2022-05-01,,3.6
+,2019-01-01,Actual,2019,Nova Scotia,2022-05-01,,2.1
+,2019-01-01,Actual,2019,Canada,2022-05-01,,1.9
+,2020-01-01,Actual,2020,Halifax,2022-05-01,,-1.471073601
+,2020-01-01,Actual,2020,Nova Scotia,2022-05-01,,-3.2
+,2020-01-01,Actual,2020,Canada,2022-05-01,,-5.2
+,2021-01-01,Actual,2021,Halifax,2022-05-01,,5.527109154
+,2021-01-01,Actual,2021,Nova Scotia,2022-05-01,,5.3
+,2021-01-01,Actual,2021,Canada,2022-05-01,,4.5
+,2022-01-01,Actual,2022,Halifax,2022-05-01,,2.530382732
+,2022-01-01,Actual,2022,Nova Scotia,2022-05-01,,2.3
+,2022-01-01,Actual,2022,Canada,2022-05-01,,3.9
+F,2023-01-01,Forecasted,2023,Halifax,2022-05-01,2.666961521,2.666961521
+F,2023-01-01,Forecasted,2023,Nova Scotia,2022-05-01,1,1
+F,2023-01-01,Forecasted,2023,Canada,2022-05-01,3.3,3.3
+F,2024-01-01,Forecasted,2024,Halifax,2022-05-01,1.805023047,1.805023047
+F,2024-01-01,Forecasted,2024,Nova Scotia,2022-05-01,1.1,1.1
+F,2024-01-01,Forecasted,2024,Canada,2022-05-01,1.3,1.3
+F,2025-01-01,Forecasted,2025,Halifax,2022-05-01,1.811103588,1.811103588
+F,2025-01-01,Forecasted,2025,Nova Scotia,2022-05-01,1.3,1.3
+F,2025-01-01,Forecasted,2025,Canada,2022-05-01,1.5,1.5
+F,2026-01-01,Forecasted,2026,Halifax,2022-05-01,1.807980050,1.807980050
+F,2026-01-01,Forecasted,2026,Nova Scotia,2022-05-01,1.2,1.2
+F,2026-01-01,Forecasted,2026,Canada,2022-05-01,1.6,1.6

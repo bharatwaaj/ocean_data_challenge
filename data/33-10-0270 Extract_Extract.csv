@@ -1,0 +1,681 @@
+﻿_previousMonth,_previousYear,Business dynamics measure,Date,Industry,_activeBusinesses,_businessCounts,_valueConnector,Value
+2014-12-01,2014-01-01,Active businesses,2015-01-01,Business sector industries [T004],9186,,9186,9186
+2015-01-01,2014-02-01,Active businesses,2015-02-01,Business sector industries [T004],9211,,9211,9211
+2015-02-01,2014-03-01,Active businesses,2015-03-01,Business sector industries [T004],9212,,9212,9212
+2015-03-01,2014-04-01,Active businesses,2015-04-01,Business sector industries [T004],9220,,9220,9220
+2015-04-01,2014-05-01,Active businesses,2015-05-01,Business sector industries [T004],9216,,9216,9216
+2015-05-01,2014-06-01,Active businesses,2015-06-01,Business sector industries [T004],9207,,9207,9207
+2015-06-01,2014-07-01,Active businesses,2015-07-01,Business sector industries [T004],9257,,9257,9257
+2015-07-01,2014-08-01,Active businesses,2015-08-01,Business sector industries [T004],9277,,9277,9277
+2015-08-01,2014-09-01,Active businesses,2015-09-01,Business sector industries [T004],9261,,9261,9261
+2015-09-01,2014-10-01,Active businesses,2015-10-01,Business sector industries [T004],9281,,9281,9281
+2015-10-01,2014-11-01,Active businesses,2015-11-01,Business sector industries [T004],9307,,9307,9307
+2014-12-01,2014-01-01,Closing businesses,2015-01-01,Business sector industries [T004],,-371,,371
+2015-01-01,2014-02-01,Closing businesses,2015-02-01,Business sector industries [T004],,-355,,355
+2015-02-01,2014-03-01,Closing businesses,2015-03-01,Business sector industries [T004],,-336,,336
+2015-03-01,2014-04-01,Closing businesses,2015-04-01,Business sector industries [T004],,-357,,357
+2015-04-01,2014-05-01,Closing businesses,2015-05-01,Business sector industries [T004],,-350,,350
+2015-05-01,2014-06-01,Closing businesses,2015-06-01,Business sector industries [T004],,-346,,346
+2015-06-01,2014-07-01,Closing businesses,2015-07-01,Business sector industries [T004],,-334,,334
+2015-07-01,2014-08-01,Closing businesses,2015-08-01,Business sector industries [T004],,-340,,340
+2015-08-01,2014-09-01,Closing businesses,2015-09-01,Business sector industries [T004],,-351,,351
+2015-09-01,2014-10-01,Closing businesses,2015-10-01,Business sector industries [T004],,-343,,343
+2015-10-01,2014-11-01,Closing businesses,2015-11-01,Business sector industries [T004],,-332,,332
+2014-12-01,2014-01-01,Continuing businesses,2015-01-01,Business sector industries [T004],,,,8835
+2015-01-01,2014-02-01,Continuing businesses,2015-02-01,Business sector industries [T004],,,,8853
+2015-02-01,2014-03-01,Continuing businesses,2015-03-01,Business sector industries [T004],,,,8870
+2015-03-01,2014-04-01,Continuing businesses,2015-04-01,Business sector industries [T004],,,,8865
+2015-04-01,2014-05-01,Continuing businesses,2015-05-01,Business sector industries [T004],,,,8857
+2015-05-01,2014-06-01,Continuing businesses,2015-06-01,Business sector industries [T004],,,,8877
+2015-06-01,2014-07-01,Continuing businesses,2015-07-01,Business sector industries [T004],,,,8887
+2015-07-01,2014-08-01,Continuing businesses,2015-08-01,Business sector industries [T004],,,,8918
+2015-08-01,2014-09-01,Continuing businesses,2015-09-01,Business sector industries [T004],,,,8929
+2015-09-01,2014-10-01,Continuing businesses,2015-10-01,Business sector industries [T004],,,,8922
+2015-10-01,2014-11-01,Continuing businesses,2015-11-01,Business sector industries [T004],,,,8945
+2014-12-01,2014-01-01,Opening businesses,2015-01-01,Business sector industries [T004],,346,,346
+2015-01-01,2014-02-01,Opening businesses,2015-02-01,Business sector industries [T004],,345,,345
+2015-02-01,2014-03-01,Opening businesses,2015-03-01,Business sector industries [T004],,337,,337
+2015-03-01,2014-04-01,Opening businesses,2015-04-01,Business sector industries [T004],,356,,356
+2015-04-01,2014-05-01,Opening businesses,2015-05-01,Business sector industries [T004],,364,,364
+2015-05-01,2014-06-01,Opening businesses,2015-06-01,Business sector industries [T004],,347,,347
+2015-06-01,2014-07-01,Opening businesses,2015-07-01,Business sector industries [T004],,378,,378
+2015-07-01,2014-08-01,Opening businesses,2015-08-01,Business sector industries [T004],,378,,378
+2015-08-01,2014-09-01,Opening businesses,2015-09-01,Business sector industries [T004],,315,,315
+2015-09-01,2014-10-01,Opening businesses,2015-10-01,Business sector industries [T004],,354,,354
+2015-10-01,2014-11-01,Opening businesses,2015-11-01,Business sector industries [T004],,351,,351
+2014-12-01,2014-01-01,Entrants,2015-01-01,Business sector industries [T004],,,,
+2015-01-01,2014-02-01,Entrants,2015-02-01,Business sector industries [T004],,,,
+2015-02-01,2014-03-01,Entrants,2015-03-01,Business sector industries [T004],,,,
+2015-03-01,2014-04-01,Entrants,2015-04-01,Business sector industries [T004],,,,
+2015-04-01,2014-05-01,Entrants,2015-05-01,Business sector industries [T004],,,,
+2015-05-01,2014-06-01,Entrants,2015-06-01,Business sector industries [T004],,,,
+2015-06-01,2014-07-01,Entrants,2015-07-01,Business sector industries [T004],,,,
+2015-07-01,2014-08-01,Entrants,2015-08-01,Business sector industries [T004],,,,
+2015-08-01,2014-09-01,Entrants,2015-09-01,Business sector industries [T004],,,,
+2015-09-01,2014-10-01,Entrants,2015-10-01,Business sector industries [T004],,,,
+2015-10-01,2014-11-01,Entrants,2015-11-01,Business sector industries [T004],,,,
+2014-12-01,2014-01-01,Exits,2015-01-01,Business sector industries [T004],,,,
+2015-01-01,2014-02-01,Exits,2015-02-01,Business sector industries [T004],,,,
+2015-02-01,2014-03-01,Exits,2015-03-01,Business sector industries [T004],,,,
+2015-03-01,2014-04-01,Exits,2015-04-01,Business sector industries [T004],,,,
+2015-04-01,2014-05-01,Exits,2015-05-01,Business sector industries [T004],,,,
+2015-05-01,2014-06-01,Exits,2015-06-01,Business sector industries [T004],,,,
+2015-06-01,2014-07-01,Exits,2015-07-01,Business sector industries [T004],,,,
+2015-07-01,2014-08-01,Exits,2015-08-01,Business sector industries [T004],,,,
+2015-08-01,2014-09-01,Exits,2015-09-01,Business sector industries [T004],,,,
+2015-09-01,2014-10-01,Exits,2015-10-01,Business sector industries [T004],,,,
+2015-10-01,2014-11-01,Exits,2015-11-01,Business sector industries [T004],,,,
+2014-12-01,2014-01-01,Reopening businesses,2015-01-01,Business sector industries [T004],,,,
+2015-01-01,2014-02-01,Reopening businesses,2015-02-01,Business sector industries [T004],,,,
+2015-02-01,2014-03-01,Reopening businesses,2015-03-01,Business sector industries [T004],,,,
+2015-03-01,2014-04-01,Reopening businesses,2015-04-01,Business sector industries [T004],,,,
+2015-04-01,2014-05-01,Reopening businesses,2015-05-01,Business sector industries [T004],,,,
+2015-05-01,2014-06-01,Reopening businesses,2015-06-01,Business sector industries [T004],,,,
+2015-06-01,2014-07-01,Reopening businesses,2015-07-01,Business sector industries [T004],,,,
+2015-07-01,2014-08-01,Reopening businesses,2015-08-01,Business sector industries [T004],,,,
+2015-08-01,2014-09-01,Reopening businesses,2015-09-01,Business sector industries [T004],,,,
+2015-09-01,2014-10-01,Reopening businesses,2015-10-01,Business sector industries [T004],,,,
+2015-10-01,2014-11-01,Reopening businesses,2015-11-01,Business sector industries [T004],,,,
+2014-12-01,2014-01-01,Temporary closures,2015-01-01,Business sector industries [T004],,,,
+2015-01-01,2014-02-01,Temporary closures,2015-02-01,Business sector industries [T004],,,,
+2015-02-01,2014-03-01,Temporary closures,2015-03-01,Business sector industries [T004],,,,
+2015-03-01,2014-04-01,Temporary closures,2015-04-01,Business sector industries [T004],,,,
+2015-04-01,2014-05-01,Temporary closures,2015-05-01,Business sector industries [T004],,,,
+2015-05-01,2014-06-01,Temporary closures,2015-06-01,Business sector industries [T004],,,,
+2015-06-01,2014-07-01,Temporary closures,2015-07-01,Business sector industries [T004],,,,
+2015-07-01,2014-08-01,Temporary closures,2015-08-01,Business sector industries [T004],,,,
+2015-08-01,2014-09-01,Temporary closures,2015-09-01,Business sector industries [T004],,,,
+2015-09-01,2014-10-01,Temporary closures,2015-10-01,Business sector industries [T004],,,,
+2015-10-01,2014-11-01,Temporary closures,2015-11-01,Business sector industries [T004],,,,
+2021-08-01,2020-09-01,Exits,2021-09-01,Business sector industries [T004],,,,
+2021-09-01,2020-10-01,Exits,2021-10-01,Business sector industries [T004],,,,
+2021-10-01,2020-11-01,Exits,2021-11-01,Business sector industries [T004],,,,
+2021-11-01,2020-12-01,Exits,2021-12-01,Business sector industries [T004],,,,
+2021-07-01,2020-08-01,Temporary closures,2021-08-01,Business sector industries [T004],,,,
+2021-08-01,2020-09-01,Temporary closures,2021-09-01,Business sector industries [T004],,,,
+2021-09-01,2020-10-01,Temporary closures,2021-10-01,Business sector industries [T004],,,,
+2021-10-01,2020-11-01,Temporary closures,2021-11-01,Business sector industries [T004],,,,
+2021-11-01,2020-12-01,Temporary closures,2021-12-01,Business sector industries [T004],,,,
+2021-02-01,2020-03-01,Active businesses,2021-03-01,Business sector industries [T004],9937,,9937,9937
+2021-03-01,2020-04-01,Active businesses,2021-04-01,Business sector industries [T004],9930,,9930,9930
+2021-04-01,2020-05-01,Active businesses,2021-05-01,Business sector industries [T004],9878,,9878,9878
+2021-05-01,2020-06-01,Active businesses,2021-06-01,Business sector industries [T004],9931,,9931,9931
+2021-06-01,2020-07-01,Active businesses,2021-07-01,Business sector industries [T004],9982,,9982,9982
+2021-07-01,2020-08-01,Active businesses,2021-08-01,Business sector industries [T004],10008,,10008,10008
+2021-08-01,2020-09-01,Active businesses,2021-09-01,Business sector industries [T004],9955,,9955,9955
+2021-09-01,2020-10-01,Active businesses,2021-10-01,Business sector industries [T004],10010,,10010,10010
+2021-10-01,2020-11-01,Active businesses,2021-11-01,Business sector industries [T004],10052,,10052,10052
+2021-11-01,2020-12-01,Active businesses,2021-12-01,Business sector industries [T004],10071,,10071,10071
+2021-02-01,2020-03-01,Closing businesses,2021-03-01,Business sector industries [T004],,-350,,350
+2021-03-01,2020-04-01,Closing businesses,2021-04-01,Business sector industries [T004],,-383,,383
+2021-04-01,2020-05-01,Closing businesses,2021-05-01,Business sector industries [T004],,-403,,403
+2021-05-01,2020-06-01,Closing businesses,2021-06-01,Business sector industries [T004],,-361,,361
+2021-06-01,2020-07-01,Closing businesses,2021-07-01,Business sector industries [T004],,-326,,326
+2021-07-01,2020-08-01,Closing businesses,2021-08-01,Business sector industries [T004],,-373,,373
+2021-08-01,2020-09-01,Closing businesses,2021-09-01,Business sector industries [T004],,-382,,382
+2021-09-01,2020-10-01,Closing businesses,2021-10-01,Business sector industries [T004],,-375,,375
+2021-10-01,2020-11-01,Closing businesses,2021-11-01,Business sector industries [T004],,-346,,346
+2021-11-01,2020-12-01,Closing businesses,2021-12-01,Business sector industries [T004],,-384,,384
+2021-02-01,2020-03-01,Continuing businesses,2021-03-01,Business sector industries [T004],,,,9464
+2021-03-01,2020-04-01,Continuing businesses,2021-04-01,Business sector industries [T004],,,,9525
+2021-04-01,2020-05-01,Continuing businesses,2021-05-01,Business sector industries [T004],,,,9532
+2021-05-01,2020-06-01,Continuing businesses,2021-06-01,Business sector industries [T004],,,,9541
+2021-06-01,2020-07-01,Continuing businesses,2021-07-01,Business sector industries [T004],,,,9587
+2021-07-01,2020-08-01,Continuing businesses,2021-08-01,Business sector industries [T004],,,,9612
+2021-08-01,2020-09-01,Continuing businesses,2021-09-01,Business sector industries [T004],,,,9614
+2021-09-01,2020-10-01,Continuing businesses,2021-10-01,Business sector industries [T004],,,,9618
+2021-10-01,2020-11-01,Continuing businesses,2021-11-01,Business sector industries [T004],,,,9664
+2021-11-01,2020-12-01,Continuing businesses,2021-12-01,Business sector industries [T004],,,,9688
+2021-02-01,2020-03-01,Opening businesses,2021-03-01,Business sector industries [T004],,431,,431
+2021-03-01,2020-04-01,Opening businesses,2021-04-01,Business sector industries [T004],,390,,390
+2021-04-01,2020-05-01,Opening businesses,2021-05-01,Business sector industries [T004],,378,,378
+2021-05-01,2020-06-01,Opening businesses,2021-06-01,Business sector industries [T004],,377,,377
+2021-06-01,2020-07-01,Opening businesses,2021-07-01,Business sector industries [T004],,382,,382
+2021-07-01,2020-08-01,Opening businesses,2021-08-01,Business sector industries [T004],,382,,382
+2021-08-01,2020-09-01,Opening businesses,2021-09-01,Business sector industries [T004],,382,,382
+2021-09-01,2020-10-01,Opening businesses,2021-10-01,Business sector industries [T004],,405,,405
+2021-10-01,2020-11-01,Opening businesses,2021-11-01,Business sector industries [T004],,385,,385
+2021-11-01,2020-12-01,Opening businesses,2021-12-01,Business sector industries [T004],,390,,390
+2020-05-01,2019-06-01,Opening businesses,2020-06-01,Business sector industries [T004],,640,,640
+2020-03-01,2019-04-01,Active businesses,2020-04-01,Business sector industries [T004],9001,,9001,9001
+2020-04-01,2019-05-01,Active businesses,2020-05-01,Business sector industries [T004],8616,,8616,8616
+2020-06-01,2019-07-01,Active businesses,2020-07-01,Business sector industries [T004],9213,,9213,9213
+2020-07-01,2019-08-01,Active businesses,2020-08-01,Business sector industries [T004],9337,,9337,9337
+2020-08-01,2019-09-01,Active businesses,2020-09-01,Business sector industries [T004],9467,,9467,9467
+2020-09-01,2019-10-01,Active businesses,2020-10-01,Business sector industries [T004],9564,,9564,9564
+2020-10-01,2019-11-01,Active businesses,2020-11-01,Business sector industries [T004],9611,,9611,9611
+2020-11-01,2019-12-01,Active businesses,2020-12-01,Business sector industries [T004],9708,,9708,9708
+2020-12-01,2020-01-01,Active businesses,2021-01-01,Business sector industries [T004],9795,,9795,9795
+2021-01-01,2020-02-01,Active businesses,2021-02-01,Business sector industries [T004],9851,,9851,9851
+2020-03-01,2019-04-01,Closing businesses,2020-04-01,Business sector industries [T004],,-947,,947
+2020-04-01,2019-05-01,Closing businesses,2020-05-01,Business sector industries [T004],,-838,,838
+2020-05-01,2019-06-01,Closing businesses,2020-06-01,Business sector industries [T004],,-406,,406
+2020-06-01,2019-07-01,Closing businesses,2020-07-01,Business sector industries [T004],,-328,,328
+2020-07-01,2019-08-01,Closing businesses,2020-08-01,Business sector industries [T004],,-308,,308
+2020-08-01,2019-09-01,Closing businesses,2020-09-01,Business sector industries [T004],,-309,,309
+2020-09-01,2019-10-01,Closing businesses,2020-10-01,Business sector industries [T004],,-306,,306
+2020-10-01,2019-11-01,Closing businesses,2020-11-01,Business sector industries [T004],,-356,,356
+2020-11-01,2019-12-01,Closing businesses,2020-12-01,Business sector industries [T004],,-319,,319
+2020-12-01,2020-01-01,Closing businesses,2021-01-01,Business sector industries [T004],,-343,,343
+2021-01-01,2020-02-01,Closing businesses,2021-02-01,Business sector industries [T004],,-366,,366
+2020-04-01,2019-05-01,Continuing businesses,2020-05-01,Business sector industries [T004],,,,8279
+2020-06-01,2019-07-01,Continuing businesses,2020-07-01,Business sector industries [T004],,,,8641
+2020-07-01,2019-08-01,Continuing businesses,2020-08-01,Business sector industries [T004],,,,8836
+2020-08-01,2019-09-01,Continuing businesses,2020-09-01,Business sector industries [T004],,,,9002
+2020-09-01,2019-10-01,Continuing businesses,2020-10-01,Business sector industries [T004],,,,9138
+2020-10-01,2019-11-01,Continuing businesses,2020-11-01,Business sector industries [T004],,,,9195
+2020-11-01,2019-12-01,Continuing businesses,2020-12-01,Business sector industries [T004],,,,9287
+2020-12-01,2020-01-01,Continuing businesses,2021-01-01,Business sector industries [T004],,,,9365
+2021-01-01,2020-02-01,Continuing businesses,2021-02-01,Business sector industries [T004],,,,9432
+2020-03-01,2019-04-01,Opening businesses,2020-04-01,Business sector industries [T004],,314,,314
+2020-04-01,2019-05-01,Opening businesses,2020-05-01,Business sector industries [T004],,355,,355
+2020-06-01,2019-07-01,Opening businesses,2020-07-01,Business sector industries [T004],,568,,568
+2020-07-01,2019-08-01,Opening businesses,2020-08-01,Business sector industries [T004],,532,,532
+2020-08-01,2019-09-01,Opening businesses,2020-09-01,Business sector industries [T004],,473,,473
+2020-09-01,2019-10-01,Opening businesses,2020-10-01,Business sector industries [T004],,433,,433
+2020-10-01,2019-11-01,Opening businesses,2020-11-01,Business sector industries [T004],,446,,446
+2020-11-01,2019-12-01,Opening businesses,2020-12-01,Business sector industries [T004],,438,,438
+2020-12-01,2020-01-01,Opening businesses,2021-01-01,Business sector industries [T004],,434,,434
+2021-01-01,2020-02-01,Opening businesses,2021-02-01,Business sector industries [T004],,421,,421
+2019-07-01,2018-08-01,Reopening businesses,2019-08-01,Business sector industries [T004],,,,
+2019-08-01,2018-09-01,Reopening businesses,2019-09-01,Business sector industries [T004],,,,
+2019-09-01,2018-10-01,Reopening businesses,2019-10-01,Business sector industries [T004],,,,
+2019-10-01,2018-11-01,Reopening businesses,2019-11-01,Business sector industries [T004],,,,
+2019-11-01,2018-12-01,Reopening businesses,2019-12-01,Business sector industries [T004],,,,
+2019-12-01,2019-01-01,Reopening businesses,2020-01-01,Business sector industries [T004],,,,
+2020-01-01,2019-02-01,Reopening businesses,2020-02-01,Business sector industries [T004],,,,
+2020-02-01,2019-03-01,Reopening businesses,2020-03-01,Business sector industries [T004],,,,
+2019-05-01,2018-06-01,Temporary closures,2019-06-01,Business sector industries [T004],,,,
+2019-06-01,2018-07-01,Temporary closures,2019-07-01,Business sector industries [T004],,,,
+2019-07-01,2018-08-01,Temporary closures,2019-08-01,Business sector industries [T004],,,,
+2019-08-01,2018-09-01,Temporary closures,2019-09-01,Business sector industries [T004],,,,
+2019-09-01,2018-10-01,Temporary closures,2019-10-01,Business sector industries [T004],,,,
+2019-10-01,2018-11-01,Temporary closures,2019-11-01,Business sector industries [T004],,,,
+2019-11-01,2018-12-01,Temporary closures,2019-12-01,Business sector industries [T004],,,,
+2019-12-01,2019-01-01,Temporary closures,2020-01-01,Business sector industries [T004],,,,
+2020-01-01,2019-02-01,Temporary closures,2020-02-01,Business sector industries [T004],,,,
+2020-02-01,2019-03-01,Temporary closures,2020-03-01,Business sector industries [T004],,,,
+2021-07-01,2020-08-01,Exits,2021-08-01,Business sector industries [T004],,,,
+2020-11-01,2019-12-01,Entrants,2020-12-01,Business sector industries [T004],,,,
+2019-05-01,2018-06-01,Reopening businesses,2019-06-01,Business sector industries [T004],,,,
+2019-06-01,2018-07-01,Reopening businesses,2019-07-01,Business sector industries [T004],,,,
+2020-05-01,2019-06-01,Active businesses,2020-06-01,Business sector industries [T004],8990,,8990,8990
+2020-03-01,2019-04-01,Continuing businesses,2020-04-01,Business sector industries [T004],,,,8683
+2020-05-01,2019-06-01,Continuing businesses,2020-06-01,Business sector industries [T004],,,,8183
+2019-12-01,2019-01-01,Active businesses,2020-01-01,Business sector industries [T004],9727,,9727,9727
+2019-12-01,2019-01-01,Closing businesses,2020-01-01,Business sector industries [T004],,-370,,370
+2018-06-01,2017-07-01,Active businesses,2018-07-01,Business sector industries [T004],9620,,9620,9620
+2018-07-01,2017-08-01,Active businesses,2018-08-01,Business sector industries [T004],9634,,9634,9634
+2018-08-01,2017-09-01,Active businesses,2018-09-01,Business sector industries [T004],9663,,9663,9663
+2018-09-01,2017-10-01,Active businesses,2018-10-01,Business sector industries [T004],9679,,9679,9679
+2018-10-01,2017-11-01,Active businesses,2018-11-01,Business sector industries [T004],9704,,9704,9704
+2018-11-01,2017-12-01,Active businesses,2018-12-01,Business sector industries [T004],9694,,9694,9694
+2018-12-01,2018-01-01,Active businesses,2019-01-01,Business sector industries [T004],9644,,9644,9644
+2019-01-01,2018-02-01,Active businesses,2019-02-01,Business sector industries [T004],9701,,9701,9701
+2019-02-01,2018-03-01,Active businesses,2019-03-01,Business sector industries [T004],9692,,9692,9692
+2019-03-01,2018-04-01,Active businesses,2019-04-01,Business sector industries [T004],9719,,9719,9719
+2019-04-01,2018-05-01,Active businesses,2019-05-01,Business sector industries [T004],9763,,9763,9763
+2018-06-01,2017-07-01,Closing businesses,2018-07-01,Business sector industries [T004],,-364,,364
+2018-07-01,2017-08-01,Closing businesses,2018-08-01,Business sector industries [T004],,-387,,387
+2018-08-01,2017-09-01,Closing businesses,2018-09-01,Business sector industries [T004],,-387,,387
+2018-09-01,2017-10-01,Closing businesses,2018-10-01,Business sector industries [T004],,-367,,367
+2018-10-01,2017-11-01,Closing businesses,2018-11-01,Business sector industries [T004],,-432,,432
+2018-11-01,2017-12-01,Closing businesses,2018-12-01,Business sector industries [T004],,-371,,371
+2018-12-01,2018-01-01,Closing businesses,2019-01-01,Business sector industries [T004],,-391,,391
+2019-01-01,2018-02-01,Closing businesses,2019-02-01,Business sector industries [T004],,-359,,359
+2019-02-01,2018-03-01,Closing businesses,2019-03-01,Business sector industries [T004],,-370,,370
+2019-03-01,2018-04-01,Closing businesses,2019-04-01,Business sector industries [T004],,-356,,356
+2019-04-01,2018-05-01,Closing businesses,2019-05-01,Business sector industries [T004],,-370,,370
+2018-06-01,2017-07-01,Continuing businesses,2018-07-01,Business sector industries [T004],,,,9271
+2018-07-01,2017-08-01,Continuing businesses,2018-08-01,Business sector industries [T004],,,,9263
+2018-08-01,2017-09-01,Continuing businesses,2018-09-01,Business sector industries [T004],,,,9241
+2018-09-01,2017-10-01,Continuing businesses,2018-10-01,Business sector industries [T004],,,,9283
+2018-10-01,2017-11-01,Continuing businesses,2018-11-01,Business sector industries [T004],,,,9283
+2018-11-01,2017-12-01,Continuing businesses,2018-12-01,Business sector industries [T004],,,,9305
+2018-12-01,2018-01-01,Continuing businesses,2019-01-01,Business sector industries [T004],,,,9299
+2019-01-01,2018-02-01,Continuing businesses,2019-02-01,Business sector industries [T004],,,,9307
+2019-02-01,2018-03-01,Continuing businesses,2019-03-01,Business sector industries [T004],,,,9324
+2019-03-01,2018-04-01,Continuing businesses,2019-04-01,Business sector industries [T004],,,,9306
+2019-04-01,2018-05-01,Continuing businesses,2019-05-01,Business sector industries [T004],,,,9376
+2018-06-01,2017-07-01,Opening businesses,2018-07-01,Business sector industries [T004],,347,,347
+2018-07-01,2017-08-01,Opening businesses,2018-08-01,Business sector industries [T004],,378,,378
+2018-08-01,2017-09-01,Opening businesses,2018-09-01,Business sector industries [T004],,448,,448
+2018-09-01,2017-10-01,Opening businesses,2018-10-01,Business sector industries [T004],,392,,392
+2018-10-01,2017-11-01,Opening businesses,2018-11-01,Business sector industries [T004],,404,,404
+2018-11-01,2017-12-01,Opening businesses,2018-12-01,Business sector industries [T004],,403,,403
+2018-12-01,2018-01-01,Opening businesses,2019-01-01,Business sector industries [T004],,369,,369
+2019-01-01,2018-02-01,Opening businesses,2019-02-01,Business sector industries [T004],,388,,388
+2019-02-01,2018-03-01,Opening businesses,2019-03-01,Business sector industries [T004],,364,,364
+2019-03-01,2018-04-01,Opening businesses,2019-04-01,Business sector industries [T004],,381,,381
+2019-04-01,2018-05-01,Opening businesses,2019-05-01,Business sector industries [T004],,391,,391
+2018-06-01,2017-07-01,Entrants,2018-07-01,Business sector industries [T004],,,,
+2018-07-01,2017-08-01,Entrants,2018-08-01,Business sector industries [T004],,,,
+2018-08-01,2017-09-01,Entrants,2018-09-01,Business sector industries [T004],,,,
+2018-09-01,2017-10-01,Entrants,2018-10-01,Business sector industries [T004],,,,
+2018-10-01,2017-11-01,Entrants,2018-11-01,Business sector industries [T004],,,,
+2018-11-01,2017-12-01,Entrants,2018-12-01,Business sector industries [T004],,,,
+2018-12-01,2018-01-01,Entrants,2019-01-01,Business sector industries [T004],,,,
+2019-01-01,2018-02-01,Entrants,2019-02-01,Business sector industries [T004],,,,
+2019-02-01,2018-03-01,Entrants,2019-03-01,Business sector industries [T004],,,,
+2019-03-01,2018-04-01,Entrants,2019-04-01,Business sector industries [T004],,,,
+2019-04-01,2018-05-01,Entrants,2019-05-01,Business sector industries [T004],,,,
+2018-06-01,2017-07-01,Exits,2018-07-01,Business sector industries [T004],,,,
+2018-07-01,2017-08-01,Exits,2018-08-01,Business sector industries [T004],,,,
+2018-08-01,2017-09-01,Exits,2018-09-01,Business sector industries [T004],,,,
+2018-09-01,2017-10-01,Exits,2018-10-01,Business sector industries [T004],,,,
+2018-10-01,2017-11-01,Exits,2018-11-01,Business sector industries [T004],,,,
+2018-11-01,2017-12-01,Exits,2018-12-01,Business sector industries [T004],,,,
+2018-12-01,2018-01-01,Exits,2019-01-01,Business sector industries [T004],,,,
+2019-01-01,2018-02-01,Exits,2019-02-01,Business sector industries [T004],,,,
+2019-02-01,2018-03-01,Exits,2019-03-01,Business sector industries [T004],,,,
+2019-03-01,2018-04-01,Exits,2019-04-01,Business sector industries [T004],,,,
+2019-04-01,2018-05-01,Exits,2019-05-01,Business sector industries [T004],,,,
+2018-06-01,2017-07-01,Reopening businesses,2018-07-01,Business sector industries [T004],,,,
+2018-07-01,2017-08-01,Reopening businesses,2018-08-01,Business sector industries [T004],,,,
+2018-08-01,2017-09-01,Reopening businesses,2018-09-01,Business sector industries [T004],,,,
+2018-09-01,2017-10-01,Reopening businesses,2018-10-01,Business sector industries [T004],,,,
+2018-10-01,2017-11-01,Reopening businesses,2018-11-01,Business sector industries [T004],,,,
+2018-11-01,2017-12-01,Reopening businesses,2018-12-01,Business sector industries [T004],,,,
+2018-12-01,2018-01-01,Reopening businesses,2019-01-01,Business sector industries [T004],,,,
+2019-01-01,2018-02-01,Reopening businesses,2019-02-01,Business sector industries [T004],,,,
+2019-02-01,2018-03-01,Reopening businesses,2019-03-01,Business sector industries [T004],,,,
+2019-03-01,2018-04-01,Reopening businesses,2019-04-01,Business sector industries [T004],,,,
+2019-04-01,2018-05-01,Reopening businesses,2019-05-01,Business sector industries [T004],,,,
+2018-06-01,2017-07-01,Temporary closures,2018-07-01,Business sector industries [T004],,,,
+2018-07-01,2017-08-01,Temporary closures,2018-08-01,Business sector industries [T004],,,,
+2018-08-01,2017-09-01,Temporary closures,2018-09-01,Business sector industries [T004],,,,
+2018-09-01,2017-10-01,Temporary closures,2018-10-01,Business sector industries [T004],,,,
+2018-10-01,2017-11-01,Temporary closures,2018-11-01,Business sector industries [T004],,,,
+2018-11-01,2017-12-01,Temporary closures,2018-12-01,Business sector industries [T004],,,,
+2018-12-01,2018-01-01,Temporary closures,2019-01-01,Business sector industries [T004],,,,
+2019-01-01,2018-02-01,Temporary closures,2019-02-01,Business sector industries [T004],,,,
+2019-02-01,2018-03-01,Temporary closures,2019-03-01,Business sector industries [T004],,,,
+2019-03-01,2018-04-01,Temporary closures,2019-04-01,Business sector industries [T004],,,,
+2019-04-01,2018-05-01,Temporary closures,2019-05-01,Business sector industries [T004],,,,
+2017-10-01,2016-11-01,Active businesses,2017-11-01,Business sector industries [T004],9473,,9473,9473
+2017-11-01,2016-12-01,Active businesses,2017-12-01,Business sector industries [T004],9494,,9494,9494
+2017-12-01,2017-01-01,Active businesses,2018-01-01,Business sector industries [T004],9510,,9510,9510
+2018-01-01,2017-02-01,Active businesses,2018-02-01,Business sector industries [T004],9513,,9513,9513
+2018-02-01,2017-03-01,Active businesses,2018-03-01,Business sector industries [T004],9544,,9544,9544
+2018-03-01,2017-04-01,Active businesses,2018-04-01,Business sector industries [T004],9561,,9561,9561
+2018-04-01,2017-05-01,Active businesses,2018-05-01,Business sector industries [T004],9583,,9583,9583
+2018-05-01,2017-06-01,Active businesses,2018-06-01,Business sector industries [T004],9622,,9622,9622
+2017-08-01,2016-09-01,Closing businesses,2017-09-01,Business sector industries [T004],,-344,,344
+2017-09-01,2016-10-01,Closing businesses,2017-10-01,Business sector industries [T004],,-369,,369
+2017-10-01,2016-11-01,Closing businesses,2017-11-01,Business sector industries [T004],,-324,,324
+2017-11-01,2016-12-01,Closing businesses,2017-12-01,Business sector industries [T004],,-337,,337
+2017-12-01,2017-01-01,Closing businesses,2018-01-01,Business sector industries [T004],,-355,,355
+2018-01-01,2017-02-01,Closing businesses,2018-02-01,Business sector industries [T004],,-384,,384
+2018-02-01,2017-03-01,Closing businesses,2018-03-01,Business sector industries [T004],,-356,,356
+2018-03-01,2017-04-01,Closing businesses,2018-04-01,Business sector industries [T004],,-361,,361
+2018-04-01,2017-05-01,Closing businesses,2018-05-01,Business sector industries [T004],,-335,,335
+2018-05-01,2017-06-01,Closing businesses,2018-06-01,Business sector industries [T004],,-342,,342
+2017-08-01,2016-09-01,Continuing businesses,2017-09-01,Business sector industries [T004],,,,9158
+2017-09-01,2016-10-01,Continuing businesses,2017-10-01,Business sector industries [T004],,,,9185
+2017-10-01,2016-11-01,Continuing businesses,2017-11-01,Business sector industries [T004],,,,9185
+2017-11-01,2016-12-01,Continuing businesses,2017-12-01,Business sector industries [T004],,,,9142
+2017-12-01,2017-01-01,Continuing businesses,2018-01-01,Business sector industries [T004],,,,9128
+2018-01-01,2017-02-01,Continuing businesses,2018-02-01,Business sector industries [T004],,,,9141
+2018-02-01,2017-03-01,Continuing businesses,2018-03-01,Business sector industries [T004],,,,9116
+2018-03-01,2017-04-01,Continuing businesses,2018-04-01,Business sector industries [T004],,,,9176
+2018-04-01,2017-05-01,Continuing businesses,2018-05-01,Business sector industries [T004],,,,9220
+2018-05-01,2017-06-01,Continuing businesses,2018-06-01,Business sector industries [T004],,,,9239
+2017-08-01,2016-09-01,Opening businesses,2017-09-01,Business sector industries [T004],,364,,364
+2017-09-01,2016-10-01,Opening businesses,2017-10-01,Business sector industries [T004],,311,,311
+2017-10-01,2016-11-01,Opening businesses,2017-11-01,Business sector industries [T004],,287,,287
+2017-11-01,2016-12-01,Opening businesses,2017-12-01,Business sector industries [T004],,352,,352
+2017-12-01,2017-01-01,Opening businesses,2018-01-01,Business sector industries [T004],,383,,383
+2018-01-01,2017-02-01,Opening businesses,2018-02-01,Business sector industries [T004],,361,,361
+2018-02-01,2017-03-01,Opening businesses,2018-03-01,Business sector industries [T004],,424,,424
+2018-03-01,2017-04-01,Opening businesses,2018-04-01,Business sector industries [T004],,379,,379
+2018-04-01,2017-05-01,Opening businesses,2018-05-01,Business sector industries [T004],,379,,379
+2018-05-01,2017-06-01,Opening businesses,2018-06-01,Business sector industries [T004],,366,,366
+2020-01-01,2019-02-01,Exits,2020-02-01,Business sector industries [T004],,,,
+2020-02-01,2019-03-01,Exits,2020-03-01,Business sector industries [T004],,,,
+2017-08-01,2016-09-01,Active businesses,2017-09-01,Business sector industries [T004],9548,,9548,9548
+2017-09-01,2016-10-01,Active businesses,2017-10-01,Business sector industries [T004],9504,,9504,9504
+2017-08-01,2016-09-01,Entrants,2017-09-01,Business sector industries [T004],,,,
+2017-09-01,2016-10-01,Entrants,2017-10-01,Business sector industries [T004],,,,
+2017-10-01,2016-11-01,Entrants,2017-11-01,Business sector industries [T004],,,,
+2017-11-01,2016-12-01,Entrants,2017-12-01,Business sector industries [T004],,,,
+2017-12-01,2017-01-01,Entrants,2018-01-01,Business sector industries [T004],,,,
+2018-01-01,2017-02-01,Entrants,2018-02-01,Business sector industries [T004],,,,
+2018-02-01,2017-03-01,Entrants,2018-03-01,Business sector industries [T004],,,,
+2018-03-01,2017-04-01,Entrants,2018-04-01,Business sector industries [T004],,,,
+2018-04-01,2017-05-01,Entrants,2018-05-01,Business sector industries [T004],,,,
+2018-05-01,2017-06-01,Entrants,2018-06-01,Business sector industries [T004],,,,
+2017-08-01,2016-09-01,Exits,2017-09-01,Business sector industries [T004],,,,
+2017-09-01,2016-10-01,Exits,2017-10-01,Business sector industries [T004],,,,
+2017-10-01,2016-11-01,Exits,2017-11-01,Business sector industries [T004],,,,
+2017-11-01,2016-12-01,Exits,2017-12-01,Business sector industries [T004],,,,
+2017-12-01,2017-01-01,Exits,2018-01-01,Business sector industries [T004],,,,
+2018-01-01,2017-02-01,Exits,2018-02-01,Business sector industries [T004],,,,
+2018-02-01,2017-03-01,Exits,2018-03-01,Business sector industries [T004],,,,
+2018-03-01,2017-04-01,Exits,2018-04-01,Business sector industries [T004],,,,
+2018-04-01,2017-05-01,Exits,2018-05-01,Business sector industries [T004],,,,
+2018-05-01,2017-06-01,Exits,2018-06-01,Business sector industries [T004],,,,
+2017-08-01,2016-09-01,Reopening businesses,2017-09-01,Business sector industries [T004],,,,
+2017-09-01,2016-10-01,Reopening businesses,2017-10-01,Business sector industries [T004],,,,
+2017-10-01,2016-11-01,Reopening businesses,2017-11-01,Business sector industries [T004],,,,
+2017-11-01,2016-12-01,Reopening businesses,2017-12-01,Business sector industries [T004],,,,
+2017-12-01,2017-01-01,Reopening businesses,2018-01-01,Business sector industries [T004],,,,
+2018-01-01,2017-02-01,Reopening businesses,2018-02-01,Business sector industries [T004],,,,
+2018-02-01,2017-03-01,Reopening businesses,2018-03-01,Business sector industries [T004],,,,
+2018-03-01,2017-04-01,Reopening businesses,2018-04-01,Business sector industries [T004],,,,
+2018-04-01,2017-05-01,Reopening businesses,2018-05-01,Business sector industries [T004],,,,
+2018-05-01,2017-06-01,Reopening businesses,2018-06-01,Business sector industries [T004],,,,
+2017-08-01,2016-09-01,Temporary closures,2017-09-01,Business sector industries [T004],,,,
+2017-09-01,2016-10-01,Temporary closures,2017-10-01,Business sector industries [T004],,,,
+2017-10-01,2016-11-01,Temporary closures,2017-11-01,Business sector industries [T004],,,,
+2017-11-01,2016-12-01,Temporary closures,2017-12-01,Business sector industries [T004],,,,
+2017-12-01,2017-01-01,Temporary closures,2018-01-01,Business sector industries [T004],,,,
+2018-01-01,2017-02-01,Temporary closures,2018-02-01,Business sector industries [T004],,,,
+2018-02-01,2017-03-01,Temporary closures,2018-03-01,Business sector industries [T004],,,,
+2018-03-01,2017-04-01,Temporary closures,2018-04-01,Business sector industries [T004],,,,
+2018-04-01,2017-05-01,Temporary closures,2018-05-01,Business sector industries [T004],,,,
+2018-05-01,2017-06-01,Temporary closures,2018-06-01,Business sector industries [T004],,,,
+2020-12-01,2020-01-01,Exits,2021-01-01,Business sector industries [T004],,,,
+2021-01-01,2020-02-01,Exits,2021-02-01,Business sector industries [T004],,,,
+2020-03-01,2019-04-01,Reopening businesses,2020-04-01,Business sector industries [T004],,,,
+2020-04-01,2019-05-01,Reopening businesses,2020-05-01,Business sector industries [T004],,,,
+2020-05-01,2019-06-01,Reopening businesses,2020-06-01,Business sector industries [T004],,,,
+2020-06-01,2019-07-01,Reopening businesses,2020-07-01,Business sector industries [T004],,,,
+2020-07-01,2019-08-01,Reopening businesses,2020-08-01,Business sector industries [T004],,,,
+2020-08-01,2019-09-01,Reopening businesses,2020-09-01,Business sector industries [T004],,,,
+2020-09-01,2019-10-01,Reopening businesses,2020-10-01,Business sector industries [T004],,,,
+2020-10-01,2019-11-01,Reopening businesses,2020-11-01,Business sector industries [T004],,,,
+2020-11-01,2019-12-01,Reopening businesses,2020-12-01,Business sector industries [T004],,,,
+2020-12-01,2020-01-01,Reopening businesses,2021-01-01,Business sector industries [T004],,,,
+2021-01-01,2020-02-01,Reopening businesses,2021-02-01,Business sector industries [T004],,,,
+2020-03-01,2019-04-01,Temporary closures,2020-04-01,Business sector industries [T004],,,,
+2020-04-01,2019-05-01,Temporary closures,2020-05-01,Business sector industries [T004],,,,
+2020-05-01,2019-06-01,Temporary closures,2020-06-01,Business sector industries [T004],,,,
+2020-06-01,2019-07-01,Temporary closures,2020-07-01,Business sector industries [T004],,,,
+2020-07-01,2019-08-01,Temporary closures,2020-08-01,Business sector industries [T004],,,,
+2020-08-01,2019-09-01,Temporary closures,2020-09-01,Business sector industries [T004],,,,
+2020-09-01,2019-10-01,Temporary closures,2020-10-01,Business sector industries [T004],,,,
+2020-10-01,2019-11-01,Temporary closures,2020-11-01,Business sector industries [T004],,,,
+2020-11-01,2019-12-01,Temporary closures,2020-12-01,Business sector industries [T004],,,,
+2020-12-01,2020-01-01,Temporary closures,2021-01-01,Business sector industries [T004],,,,
+2021-01-01,2020-02-01,Temporary closures,2021-02-01,Business sector industries [T004],,,,
+2019-12-01,2019-01-01,Continuing businesses,2020-01-01,Business sector industries [T004],,,,9380
+2019-12-01,2019-01-01,Opening businesses,2020-01-01,Business sector industries [T004],,354,,354
+2019-05-01,2018-06-01,Active businesses,2019-06-01,Business sector industries [T004],9790,,9790,9790
+2019-06-01,2018-07-01,Active businesses,2019-07-01,Business sector industries [T004],9810,,9810,9810
+2019-07-01,2018-08-01,Active businesses,2019-08-01,Business sector industries [T004],9809,,9809,9809
+2019-08-01,2018-09-01,Active businesses,2019-09-01,Business sector industries [T004],9806,,9806,9806
+2019-09-01,2018-10-01,Active businesses,2019-10-01,Business sector industries [T004],9807,,9807,9807
+2019-10-01,2018-11-01,Active businesses,2019-11-01,Business sector industries [T004],9824,,9824,9824
+2019-11-01,2018-12-01,Active businesses,2019-12-01,Business sector industries [T004],9770,,9770,9770
+2020-01-01,2019-02-01,Active businesses,2020-02-01,Business sector industries [T004],9722,,9722,9722
+2020-02-01,2019-03-01,Active businesses,2020-03-01,Business sector industries [T004],9577,,9577,9577
+2019-05-01,2018-06-01,Closing businesses,2019-06-01,Business sector industries [T004],,-366,,366
+2019-06-01,2018-07-01,Closing businesses,2019-07-01,Business sector industries [T004],,-365,,365
+2019-07-01,2018-08-01,Closing businesses,2019-08-01,Business sector industries [T004],,-383,,383
+2019-08-01,2018-09-01,Closing businesses,2019-09-01,Business sector industries [T004],,-369,,369
+2019-09-01,2018-10-01,Closing businesses,2019-10-01,Business sector industries [T004],,-378,,378
+2019-10-01,2018-11-01,Closing businesses,2019-11-01,Business sector industries [T004],,-308,,308
+2019-11-01,2018-12-01,Closing businesses,2019-12-01,Business sector industries [T004],,-385,,385
+2020-01-01,2019-02-01,Closing businesses,2020-02-01,Business sector industries [T004],,-346,,346
+2020-02-01,2019-03-01,Closing businesses,2020-03-01,Business sector industries [T004],,-449,,449
+2019-05-01,2018-06-01,Continuing businesses,2019-06-01,Business sector industries [T004],,,,9402
+2019-06-01,2018-07-01,Continuing businesses,2019-07-01,Business sector industries [T004],,,,9409
+2019-07-01,2018-08-01,Continuing businesses,2019-08-01,Business sector industries [T004],,,,9423
+2019-08-01,2018-09-01,Continuing businesses,2019-09-01,Business sector industries [T004],,,,9426
+2019-09-01,2018-10-01,Continuing businesses,2019-10-01,Business sector industries [T004],,,,9437
+2019-10-01,2018-11-01,Continuing businesses,2019-11-01,Business sector industries [T004],,,,9499
+2019-11-01,2018-12-01,Continuing businesses,2019-12-01,Business sector industries [T004],,,,9435
+2020-01-01,2019-02-01,Continuing businesses,2020-02-01,Business sector industries [T004],,,,9450
+2020-02-01,2019-03-01,Continuing businesses,2020-03-01,Business sector industries [T004],,,,9230
+2019-05-01,2018-06-01,Opening businesses,2019-06-01,Business sector industries [T004],,403,,403
+2019-06-01,2018-07-01,Opening businesses,2019-07-01,Business sector industries [T004],,390,,390
+2019-07-01,2018-08-01,Opening businesses,2019-08-01,Business sector industries [T004],,367,,367
+2019-08-01,2018-09-01,Opening businesses,2019-09-01,Business sector industries [T004],,396,,396
+2019-09-01,2018-10-01,Opening businesses,2019-10-01,Business sector industries [T004],,390,,390
+2019-10-01,2018-11-01,Opening businesses,2019-11-01,Business sector industries [T004],,305,,305
+2019-11-01,2018-12-01,Opening businesses,2019-12-01,Business sector industries [T004],,348,,348
+2020-01-01,2019-02-01,Opening businesses,2020-02-01,Business sector industries [T004],,347,,347
+2020-02-01,2019-03-01,Opening businesses,2020-03-01,Business sector industries [T004],,328,,328
+2016-09-01,2015-10-01,Active businesses,2016-10-01,Business sector industries [T004],9307,,9307,9307
+2016-10-01,2015-11-01,Active businesses,2016-11-01,Business sector industries [T004],9329,,9329,9329
+2016-11-01,2015-12-01,Active businesses,2016-12-01,Business sector industries [T004],9342,,9342,9342
+2016-12-01,2016-01-01,Active businesses,2017-01-01,Business sector industries [T004],9413,,9413,9413
+2017-01-01,2016-02-01,Active businesses,2017-02-01,Business sector industries [T004],9503,,9503,9503
+2017-02-01,2016-03-01,Active businesses,2017-03-01,Business sector industries [T004],9468,,9468,9468
+2017-03-01,2016-04-01,Active businesses,2017-04-01,Business sector industries [T004],9473,,9473,9473
+2017-04-01,2016-05-01,Active businesses,2017-05-01,Business sector industries [T004],9481,,9481,9481
+2017-05-01,2016-06-01,Active businesses,2017-06-01,Business sector industries [T004],9515,,9515,9515
+2017-06-01,2016-07-01,Active businesses,2017-07-01,Business sector industries [T004],9444,,9444,9444
+2017-07-01,2016-08-01,Active businesses,2017-08-01,Business sector industries [T004],9509,,9509,9509
+2016-09-01,2015-10-01,Closing businesses,2016-10-01,Business sector industries [T004],,-343,,343
+2016-10-01,2015-11-01,Closing businesses,2016-11-01,Business sector industries [T004],,-371,,371
+2016-11-01,2015-12-01,Closing businesses,2016-12-01,Business sector industries [T004],,-359,,359
+2016-12-01,2016-01-01,Closing businesses,2017-01-01,Business sector industries [T004],,-332,,332
+2017-01-01,2016-02-01,Closing businesses,2017-02-01,Business sector industries [T004],,-330,,330
+2017-02-01,2016-03-01,Closing businesses,2017-03-01,Business sector industries [T004],,-370,,370
+2017-03-01,2016-04-01,Closing businesses,2017-04-01,Business sector industries [T004],,-347,,347
+2017-04-01,2016-05-01,Closing businesses,2017-05-01,Business sector industries [T004],,-297,,297
+2017-05-01,2016-06-01,Closing businesses,2017-06-01,Business sector industries [T004],,-356,,356
+2017-06-01,2016-07-01,Closing businesses,2017-07-01,Business sector industries [T004],,-355,,355
+2017-07-01,2016-08-01,Closing businesses,2017-08-01,Business sector industries [T004],,-325,,325
+2016-09-01,2015-10-01,Continuing businesses,2016-10-01,Business sector industries [T004],,,,8934
+2016-10-01,2015-11-01,Continuing businesses,2016-11-01,Business sector industries [T004],,,,8943
+2016-11-01,2015-12-01,Continuing businesses,2016-12-01,Business sector industries [T004],,,,8938
+2016-12-01,2016-01-01,Continuing businesses,2017-01-01,Business sector industries [T004],,,,9027
+2017-01-01,2016-02-01,Continuing businesses,2017-02-01,Business sector industries [T004],,,,9101
+2017-02-01,2016-03-01,Continuing businesses,2017-03-01,Business sector industries [T004],,,,9111
+2017-03-01,2016-04-01,Continuing businesses,2017-04-01,Business sector industries [T004],,,,9116
+2017-04-01,2016-05-01,Continuing businesses,2017-05-01,Business sector industries [T004],,,,9122
+2017-05-01,2016-06-01,Continuing businesses,2017-06-01,Business sector industries [T004],,,,9147
+2017-06-01,2016-07-01,Continuing businesses,2017-07-01,Business sector industries [T004],,,,9134
+2017-07-01,2016-08-01,Continuing businesses,2017-08-01,Business sector industries [T004],,,,9142
+2016-09-01,2015-10-01,Opening businesses,2016-10-01,Business sector industries [T004],,374,,374
+2016-10-01,2015-11-01,Opening businesses,2016-11-01,Business sector industries [T004],,372,,372
+2016-11-01,2015-12-01,Opening businesses,2016-12-01,Business sector industries [T004],,377,,377
+2016-12-01,2016-01-01,Opening businesses,2017-01-01,Business sector industries [T004],,387,,387
+2017-01-01,2016-02-01,Opening businesses,2017-02-01,Business sector industries [T004],,390,,390
+2017-02-01,2016-03-01,Opening businesses,2017-03-01,Business sector industries [T004],,362,,362
+2017-03-01,2016-04-01,Opening businesses,2017-04-01,Business sector industries [T004],,360,,360
+2017-04-01,2016-05-01,Opening businesses,2017-05-01,Business sector industries [T004],,355,,355
+2017-05-01,2016-06-01,Opening businesses,2017-06-01,Business sector industries [T004],,371,,371
+2017-06-01,2016-07-01,Opening businesses,2017-07-01,Business sector industries [T004],,312,,312
+2017-07-01,2016-08-01,Opening businesses,2017-08-01,Business sector industries [T004],,403,,403
+2016-09-01,2015-10-01,Entrants,2016-10-01,Business sector industries [T004],,,,
+2016-10-01,2015-11-01,Entrants,2016-11-01,Business sector industries [T004],,,,
+2016-11-01,2015-12-01,Entrants,2016-12-01,Business sector industries [T004],,,,
+2016-12-01,2016-01-01,Entrants,2017-01-01,Business sector industries [T004],,,,
+2017-01-01,2016-02-01,Entrants,2017-02-01,Business sector industries [T004],,,,
+2017-02-01,2016-03-01,Entrants,2017-03-01,Business sector industries [T004],,,,
+2017-03-01,2016-04-01,Entrants,2017-04-01,Business sector industries [T004],,,,
+2017-04-01,2016-05-01,Entrants,2017-05-01,Business sector industries [T004],,,,
+2017-05-01,2016-06-01,Entrants,2017-06-01,Business sector industries [T004],,,,
+2017-06-01,2016-07-01,Entrants,2017-07-01,Business sector industries [T004],,,,
+2017-07-01,2016-08-01,Entrants,2017-08-01,Business sector industries [T004],,,,
+2016-09-01,2015-10-01,Exits,2016-10-01,Business sector industries [T004],,,,
+2016-10-01,2015-11-01,Exits,2016-11-01,Business sector industries [T004],,,,
+2016-11-01,2015-12-01,Exits,2016-12-01,Business sector industries [T004],,,,
+2016-12-01,2016-01-01,Exits,2017-01-01,Business sector industries [T004],,,,
+2017-01-01,2016-02-01,Exits,2017-02-01,Business sector industries [T004],,,,
+2017-02-01,2016-03-01,Exits,2017-03-01,Business sector industries [T004],,,,
+2017-03-01,2016-04-01,Exits,2017-04-01,Business sector industries [T004],,,,
+2017-04-01,2016-05-01,Exits,2017-05-01,Business sector industries [T004],,,,
+2017-05-01,2016-06-01,Exits,2017-06-01,Business sector industries [T004],,,,
+2017-06-01,2016-07-01,Exits,2017-07-01,Business sector industries [T004],,,,
+2017-07-01,2016-08-01,Exits,2017-08-01,Business sector industries [T004],,,,
+2016-09-01,2015-10-01,Reopening businesses,2016-10-01,Business sector industries [T004],,,,
+2016-10-01,2015-11-01,Reopening businesses,2016-11-01,Business sector industries [T004],,,,
+2016-11-01,2015-12-01,Reopening businesses,2016-12-01,Business sector industries [T004],,,,
+2016-12-01,2016-01-01,Reopening businesses,2017-01-01,Business sector industries [T004],,,,
+2017-01-01,2016-02-01,Reopening businesses,2017-02-01,Business sector industries [T004],,,,
+2017-02-01,2016-03-01,Reopening businesses,2017-03-01,Business sector industries [T004],,,,
+2017-03-01,2016-04-01,Reopening businesses,2017-04-01,Business sector industries [T004],,,,
+2017-04-01,2016-05-01,Reopening businesses,2017-05-01,Business sector industries [T004],,,,
+2017-05-01,2016-06-01,Reopening businesses,2017-06-01,Business sector industries [T004],,,,
+2017-06-01,2016-07-01,Reopening businesses,2017-07-01,Business sector industries [T004],,,,
+2017-07-01,2016-08-01,Reopening businesses,2017-08-01,Business sector industries [T004],,,,
+2016-09-01,2015-10-01,Temporary closures,2016-10-01,Business sector industries [T004],,,,
+2016-10-01,2015-11-01,Temporary closures,2016-11-01,Business sector industries [T004],,,,
+2016-11-01,2015-12-01,Temporary closures,2016-12-01,Business sector industries [T004],,,,
+2016-12-01,2016-01-01,Temporary closures,2017-01-01,Business sector industries [T004],,,,
+2017-01-01,2016-02-01,Temporary closures,2017-02-01,Business sector industries [T004],,,,
+2017-02-01,2016-03-01,Temporary closures,2017-03-01,Business sector industries [T004],,,,
+2017-03-01,2016-04-01,Temporary closures,2017-04-01,Business sector industries [T004],,,,
+2017-04-01,2016-05-01,Temporary closures,2017-05-01,Business sector industries [T004],,,,
+2017-05-01,2016-06-01,Temporary closures,2017-06-01,Business sector industries [T004],,,,
+2017-06-01,2016-07-01,Temporary closures,2017-07-01,Business sector industries [T004],,,,
+2017-07-01,2016-08-01,Temporary closures,2017-08-01,Business sector industries [T004],,,,
+2020-03-01,2019-04-01,Entrants,2020-04-01,Business sector industries [T004],,,,
+2020-04-01,2019-05-01,Entrants,2020-05-01,Business sector industries [T004],,,,
+2020-05-01,2019-06-01,Entrants,2020-06-01,Business sector industries [T004],,,,
+2020-06-01,2019-07-01,Entrants,2020-07-01,Business sector industries [T004],,,,
+2020-07-01,2019-08-01,Entrants,2020-08-01,Business sector industries [T004],,,,
+2020-08-01,2019-09-01,Entrants,2020-09-01,Business sector industries [T004],,,,
+2020-09-01,2019-10-01,Entrants,2020-10-01,Business sector industries [T004],,,,
+2020-10-01,2019-11-01,Entrants,2020-11-01,Business sector industries [T004],,,,
+2019-05-01,2018-06-01,Entrants,2019-06-01,Business sector industries [T004],,,,
+2019-06-01,2018-07-01,Entrants,2019-07-01,Business sector industries [T004],,,,
+2019-07-01,2018-08-01,Entrants,2019-08-01,Business sector industries [T004],,,,
+2019-08-01,2018-09-01,Entrants,2019-09-01,Business sector industries [T004],,,,
+2019-09-01,2018-10-01,Entrants,2019-10-01,Business sector industries [T004],,,,
+2019-10-01,2018-11-01,Entrants,2019-11-01,Business sector industries [T004],,,,
+2019-11-01,2018-12-01,Entrants,2019-12-01,Business sector industries [T004],,,,
+2019-12-01,2019-01-01,Entrants,2020-01-01,Business sector industries [T004],,,,
+2015-11-01,2014-12-01,Active businesses,2015-12-01,Business sector industries [T004],9285,,9285,9285
+2015-12-01,2015-01-01,Active businesses,2016-01-01,Business sector industries [T004],9291,,9291,9291
+2016-01-01,2015-02-01,Active businesses,2016-02-01,Business sector industries [T004],9221,,9221,9221
+2016-02-01,2015-03-01,Active businesses,2016-03-01,Business sector industries [T004],9266,,9266,9266
+2016-03-01,2015-04-01,Active businesses,2016-04-01,Business sector industries [T004],9332,,9332,9332
+2016-04-01,2015-05-01,Active businesses,2016-05-01,Business sector industries [T004],9307,,9307,9307
+2016-05-01,2015-06-01,Active businesses,2016-06-01,Business sector industries [T004],9293,,9293,9293
+2016-06-01,2015-07-01,Active businesses,2016-07-01,Business sector industries [T004],9295,,9295,9295
+2016-07-01,2015-08-01,Active businesses,2016-08-01,Business sector industries [T004],9299,,9299,9299
+2016-08-01,2015-09-01,Active businesses,2016-09-01,Business sector industries [T004],9310,,9310,9310
+2015-11-01,2014-12-01,Closing businesses,2015-12-01,Business sector industries [T004],,-333,,333
+2015-12-01,2015-01-01,Closing businesses,2016-01-01,Business sector industries [T004],,-329,,329
+2016-01-01,2015-02-01,Closing businesses,2016-02-01,Business sector industries [T004],,-430,,430
+2016-02-01,2015-03-01,Closing businesses,2016-03-01,Business sector industries [T004],,-283,,283
+2016-03-01,2015-04-01,Closing businesses,2016-04-01,Business sector industries [T004],,-321,,321
+2016-04-01,2015-05-01,Closing businesses,2016-05-01,Business sector industries [T004],,-345,,345
+2016-05-01,2015-06-01,Closing businesses,2016-06-01,Business sector industries [T004],,-279,,279
+2016-06-01,2015-07-01,Closing businesses,2016-07-01,Business sector industries [T004],,-351,,351
+2016-07-01,2015-08-01,Closing businesses,2016-08-01,Business sector industries [T004],,-357,,357
+2016-08-01,2015-09-01,Closing businesses,2016-09-01,Business sector industries [T004],,-336,,336
+2015-11-01,2014-12-01,Continuing businesses,2015-12-01,Business sector industries [T004],,,,8958
+2015-12-01,2015-01-01,Continuing businesses,2016-01-01,Business sector industries [T004],,,,8973
+2016-01-01,2015-02-01,Continuing businesses,2016-02-01,Business sector industries [T004],,,,8942
+2016-02-01,2015-03-01,Continuing businesses,2016-03-01,Business sector industries [T004],,,,8923
+2016-03-01,2015-04-01,Continuing businesses,2016-04-01,Business sector industries [T004],,,,8932
+2016-04-01,2015-05-01,Continuing businesses,2016-05-01,Business sector industries [T004],,,,8956
+2016-05-01,2015-06-01,Continuing businesses,2016-06-01,Business sector industries [T004],,,,9026
+2016-06-01,2015-07-01,Continuing businesses,2016-07-01,Business sector industries [T004],,,,8948
+2016-07-01,2015-08-01,Continuing businesses,2016-08-01,Business sector industries [T004],,,,8942
+2016-08-01,2015-09-01,Continuing businesses,2016-09-01,Business sector industries [T004],,,,8968
+2015-11-01,2014-12-01,Opening businesses,2015-12-01,Business sector industries [T004],,332,,332
+2015-12-01,2015-01-01,Opening businesses,2016-01-01,Business sector industries [T004],,324,,324
+2016-01-01,2015-02-01,Opening businesses,2016-02-01,Business sector industries [T004],,328,,328
+2016-02-01,2015-03-01,Opening businesses,2016-03-01,Business sector industries [T004],,351,,351
+2016-03-01,2015-04-01,Opening businesses,2016-04-01,Business sector industries [T004],,353,,353
+2016-04-01,2015-05-01,Opening businesses,2016-05-01,Business sector industries [T004],,346,,346
+2016-05-01,2015-06-01,Opening businesses,2016-06-01,Business sector industries [T004],,332,,332
+2016-06-01,2015-07-01,Opening businesses,2016-07-01,Business sector industries [T004],,347,,347
+2016-07-01,2015-08-01,Opening businesses,2016-08-01,Business sector industries [T004],,351,,351
+2016-08-01,2015-09-01,Opening businesses,2016-09-01,Business sector industries [T004],,312,,312
+2015-11-01,2014-12-01,Entrants,2015-12-01,Business sector industries [T004],,,,
+2015-12-01,2015-01-01,Entrants,2016-01-01,Business sector industries [T004],,,,
+2016-01-01,2015-02-01,Entrants,2016-02-01,Business sector industries [T004],,,,
+2016-02-01,2015-03-01,Entrants,2016-03-01,Business sector industries [T004],,,,
+2016-03-01,2015-04-01,Entrants,2016-04-01,Business sector industries [T004],,,,
+2016-04-01,2015-05-01,Entrants,2016-05-01,Business sector industries [T004],,,,
+2016-05-01,2015-06-01,Entrants,2016-06-01,Business sector industries [T004],,,,
+2016-06-01,2015-07-01,Entrants,2016-07-01,Business sector industries [T004],,,,
+2016-07-01,2015-08-01,Entrants,2016-08-01,Business sector industries [T004],,,,
+2016-08-01,2015-09-01,Entrants,2016-09-01,Business sector industries [T004],,,,
+2015-11-01,2014-12-01,Exits,2015-12-01,Business sector industries [T004],,,,
+2015-12-01,2015-01-01,Exits,2016-01-01,Business sector industries [T004],,,,
+2016-01-01,2015-02-01,Exits,2016-02-01,Business sector industries [T004],,,,
+2016-02-01,2015-03-01,Exits,2016-03-01,Business sector industries [T004],,,,
+2016-03-01,2015-04-01,Exits,2016-04-01,Business sector industries [T004],,,,
+2016-04-01,2015-05-01,Exits,2016-05-01,Business sector industries [T004],,,,
+2016-05-01,2015-06-01,Exits,2016-06-01,Business sector industries [T004],,,,
+2016-06-01,2015-07-01,Exits,2016-07-01,Business sector industries [T004],,,,
+2016-07-01,2015-08-01,Exits,2016-08-01,Business sector industries [T004],,,,
+2016-08-01,2015-09-01,Exits,2016-09-01,Business sector industries [T004],,,,
+2015-11-01,2014-12-01,Reopening businesses,2015-12-01,Business sector industries [T004],,,,
+2015-12-01,2015-01-01,Reopening businesses,2016-01-01,Business sector industries [T004],,,,
+2016-01-01,2015-02-01,Reopening businesses,2016-02-01,Business sector industries [T004],,,,
+2016-02-01,2015-03-01,Reopening businesses,2016-03-01,Business sector industries [T004],,,,
+2016-03-01,2015-04-01,Reopening businesses,2016-04-01,Business sector industries [T004],,,,
+2016-04-01,2015-05-01,Reopening businesses,2016-05-01,Business sector industries [T004],,,,
+2016-05-01,2015-06-01,Reopening businesses,2016-06-01,Business sector industries [T004],,,,
+2016-06-01,2015-07-01,Reopening businesses,2016-07-01,Business sector industries [T004],,,,
+2016-07-01,2015-08-01,Reopening businesses,2016-08-01,Business sector industries [T004],,,,
+2016-08-01,2015-09-01,Reopening businesses,2016-09-01,Business sector industries [T004],,,,
+2015-11-01,2014-12-01,Temporary closures,2015-12-01,Business sector industries [T004],,,,
+2015-12-01,2015-01-01,Temporary closures,2016-01-01,Business sector industries [T004],,,,
+2016-01-01,2015-02-01,Temporary closures,2016-02-01,Business sector industries [T004],,,,
+2016-02-01,2015-03-01,Temporary closures,2016-03-01,Business sector industries [T004],,,,
+2016-03-01,2015-04-01,Temporary closures,2016-04-01,Business sector industries [T004],,,,
+2016-04-01,2015-05-01,Temporary closures,2016-05-01,Business sector industries [T004],,,,
+2016-05-01,2015-06-01,Temporary closures,2016-06-01,Business sector industries [T004],,,,
+2016-06-01,2015-07-01,Temporary closures,2016-07-01,Business sector industries [T004],,,,
+2016-07-01,2015-08-01,Temporary closures,2016-08-01,Business sector industries [T004],,,,
+2016-08-01,2015-09-01,Temporary closures,2016-09-01,Business sector industries [T004],,,,
+2021-02-01,2020-03-01,Entrants,2021-03-01,Business sector industries [T004],,,,
+2021-03-01,2020-04-01,Entrants,2021-04-01,Business sector industries [T004],,,,
+2021-04-01,2020-05-01,Entrants,2021-05-01,Business sector industries [T004],,,,
+2021-05-01,2020-06-01,Entrants,2021-06-01,Business sector industries [T004],,,,
+2021-06-01,2020-07-01,Entrants,2021-07-01,Business sector industries [T004],,,,
+2021-07-01,2020-08-01,Entrants,2021-08-01,Business sector industries [T004],,,,
+2021-08-01,2020-09-01,Entrants,2021-09-01,Business sector industries [T004],,,,
+2021-09-01,2020-10-01,Entrants,2021-10-01,Business sector industries [T004],,,,
+2021-10-01,2020-11-01,Entrants,2021-11-01,Business sector industries [T004],,,,
+2021-11-01,2020-12-01,Entrants,2021-12-01,Business sector industries [T004],,,,
+2021-02-01,2020-03-01,Exits,2021-03-01,Business sector industries [T004],,,,
+2021-03-01,2020-04-01,Exits,2021-04-01,Business sector industries [T004],,,,
+2021-04-01,2020-05-01,Exits,2021-05-01,Business sector industries [T004],,,,
+2021-05-01,2020-06-01,Exits,2021-06-01,Business sector industries [T004],,,,
+2021-06-01,2020-07-01,Exits,2021-07-01,Business sector industries [T004],,,,
+2021-02-01,2020-03-01,Reopening businesses,2021-03-01,Business sector industries [T004],,,,
+2021-03-01,2020-04-01,Reopening businesses,2021-04-01,Business sector industries [T004],,,,
+2021-04-01,2020-05-01,Reopening businesses,2021-05-01,Business sector industries [T004],,,,
+2021-05-01,2020-06-01,Reopening businesses,2021-06-01,Business sector industries [T004],,,,
+2021-06-01,2020-07-01,Reopening businesses,2021-07-01,Business sector industries [T004],,,,
+2021-07-01,2020-08-01,Reopening businesses,2021-08-01,Business sector industries [T004],,,,
+2021-08-01,2020-09-01,Reopening businesses,2021-09-01,Business sector industries [T004],,,,
+2021-09-01,2020-10-01,Reopening businesses,2021-10-01,Business sector industries [T004],,,,
+2021-10-01,2020-11-01,Reopening businesses,2021-11-01,Business sector industries [T004],,,,
+2021-11-01,2020-12-01,Reopening businesses,2021-12-01,Business sector industries [T004],,,,
+2021-02-01,2020-03-01,Temporary closures,2021-03-01,Business sector industries [T004],,,,
+2021-03-01,2020-04-01,Temporary closures,2021-04-01,Business sector industries [T004],,,,
+2021-04-01,2020-05-01,Temporary closures,2021-05-01,Business sector industries [T004],,,,
+2021-05-01,2020-06-01,Temporary closures,2021-06-01,Business sector industries [T004],,,,
+2021-06-01,2020-07-01,Temporary closures,2021-07-01,Business sector industries [T004],,,,
+2021-12-01,2021-01-01,Exits,2022-01-01,Business sector industries [T004],,,,
+2021-12-01,2021-01-01,Temporary closures,2022-01-01,Business sector industries [T004],,,,
+2021-12-01,2021-01-01,Active businesses,2022-01-01,Business sector industries [T004],10099,,10099,10099
+2021-12-01,2021-01-01,Closing businesses,2022-01-01,Business sector industries [T004],,-314,,314
+2021-12-01,2021-01-01,Continuing businesses,2022-01-01,Business sector industries [T004],,,,9756
+2021-12-01,2021-01-01,Opening businesses,2022-01-01,Business sector industries [T004],,365,,365
+2021-12-01,2021-01-01,Entrants,2022-01-01,Business sector industries [T004],,,,
+2021-12-01,2021-01-01,Reopening businesses,2022-01-01,Business sector industries [T004],,,,
+2020-12-01,2020-01-01,Entrants,2021-01-01,Business sector industries [T004],,,,
+2021-01-01,2020-02-01,Entrants,2021-02-01,Business sector industries [T004],,,,
+2020-03-01,2019-04-01,Exits,2020-04-01,Business sector industries [T004],,,,
+2020-04-01,2019-05-01,Exits,2020-05-01,Business sector industries [T004],,,,
+2020-05-01,2019-06-01,Exits,2020-06-01,Business sector industries [T004],,,,
+2020-06-01,2019-07-01,Exits,2020-07-01,Business sector industries [T004],,,,
+2020-07-01,2019-08-01,Exits,2020-08-01,Business sector industries [T004],,,,
+2020-08-01,2019-09-01,Exits,2020-09-01,Business sector industries [T004],,,,
+2020-09-01,2019-10-01,Exits,2020-10-01,Business sector industries [T004],,,,
+2020-10-01,2019-11-01,Exits,2020-11-01,Business sector industries [T004],,,,
+2020-11-01,2019-12-01,Exits,2020-12-01,Business sector industries [T004],,,,
+2020-01-01,2019-02-01,Entrants,2020-02-01,Business sector industries [T004],,,,
+2020-02-01,2019-03-01,Entrants,2020-03-01,Business sector industries [T004],,,,
+2019-05-01,2018-06-01,Exits,2019-06-01,Business sector industries [T004],,,,
+2019-06-01,2018-07-01,Exits,2019-07-01,Business sector industries [T004],,,,
+2019-07-01,2018-08-01,Exits,2019-08-01,Business sector industries [T004],,,,
+2019-08-01,2018-09-01,Exits,2019-09-01,Business sector industries [T004],,,,
+2019-09-01,2018-10-01,Exits,2019-10-01,Business sector industries [T004],,,,
+2019-10-01,2018-11-01,Exits,2019-11-01,Business sector industries [T004],,,,
+2019-11-01,2018-12-01,Exits,2019-12-01,Business sector industries [T004],,,,
+2019-12-01,2019-01-01,Exits,2020-01-01,Business sector industries [T004],,,,
